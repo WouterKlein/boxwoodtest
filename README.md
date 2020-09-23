@@ -2,7 +2,7 @@
 title="Boxwood"
 author="Wouter Klein"
 layout="vtl"
-banner="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cinchona.calisaya03.jpg">
+banner="https://upload.wikimedia.org/wikipedia/commons/1/11/Buxus_sinica.jpg">
 
 BOXWOOD: A HUMBLE YET RESILIENT PLANT THAT TOOK OVER THE GARDEN WORLD
 
@@ -33,5 +33,5 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NTI2NjQwXX0=
+eyJoaXN0b3J5IjpbLTQzNzgyMjc2XX0=
 -->
