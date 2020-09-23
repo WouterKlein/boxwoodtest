@@ -33,35 +33,35 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ## References
 
-[^1]  
-[^2]  
-[^3]  
-[^4]  
-[^5]  
-[^6]  
-[^7]  
-[^8]  
-[^9]  
-[^10]  
-[^11]  
-[^12]  
-[^13]  
-[^14]  
-[^15]  
-[^16]  
-[^17]  
-[^18]  
-[^19]  
-[^20]  
-[^21]  
-[^22]  
-[^23]  
-[^24]  
-[^25]  
-[^26]  
-[^27]  
-[^28]  
-[^29]  
+[^1] Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” Applied Microbiology and Biotechnology, 102 (2018), 4371 (https://doi.org/10.1007/s00253-018-8936-2). 
+[^2] Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (Buxus sempervirens) as American boxwood. There are no boxwood species native to the US. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (Buxus microphylla).
+[^3] Beatrix Farrand’s Plant Book for Dumbarton Oaks, ed. Diane Kostial McGuire (Washington, DC: Dumbarton Oaks, 1980), xiii.
+[^4] Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” The Botany of Empire in the Long Eighteenth century, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
+[^5] Pietro Andrea Mattioli, Discorsi (Venice: Valgrisi, 1563), 138; John Gerard, Herball (London: Norton, 1595), 1225.
+[^6] Pliny the Younger, Letters, V.6.
+[^7] 
+[^8] 
+[^9] 
+[^10] 
+[^11] 
+[^12] 
+[^13] 
+[^14] 
+[^15] 
+[^16] 
+[^17] 
+[^18] 
+[^19] 
+[^20] 
+[^21] 
+[^22] 
+[^23] 
+[^24] 
+[^25] 
+[^26] 
+[^27] 
+[^28] 
+[^29] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTY4NTc0OF19
+eyJoaXN0b3J5IjpbMzk5NjYwNjYyXX0=
 -->
