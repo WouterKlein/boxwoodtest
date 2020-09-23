@@ -7,7 +7,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/1/11/Buxus_sinica.jpg">
 BOXWOOD: A HUMBLE YET RESILIENT PLANT THAT TOOK OVER THE GARDEN WORLD
 
 
-“Boxwood blight invades North America,” read the heading of an article that appeared in Science News in January 2012. Caused by Cylindrocladium buxicola—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”   
+“Boxwood blight invades North America,” read the heading of an article that appeared in Science News in January 2012. Caused by Cylindrocladium buxicola—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.” [^1]
  
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (Buxus sempervirens ‘Suffruticosa’) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.  A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.” One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”  It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat. 
 
@@ -31,7 +31,10 @@ Closely connected with these expatriate circles was British landscape architect 
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.   
 
+## References
+
+[^1]  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzgyMjc2XX0=
+eyJoaXN0b3J5IjpbLTE5OTc1MjQ4MzZdfQ==
 -->
