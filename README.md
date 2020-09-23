@@ -39,29 +39,29 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^4] Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” The Botany of Empire in the Long Eighteenth century, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
 [^5] Pietro Andrea Mattioli, Discorsi (Venice: Valgrisi, 1563), 138; John Gerard, Herball (London: Norton, 1595), 1225.
 [^6] Pliny the Younger, Letters, V.6.
-[^7] 
-[^8] 
-[^9] 
-[^10] 
-[^11] 
-[^12] 
-[^13] 
-[^14] 
-[^15] 
-[^16] 
-[^17] 
-[^18] 
-[^19] 
-[^20] 
-[^21] 
-[^22] 
-[^23] 
-[^24] 
-[^25] 
-[^26] 
+[^7] Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in Il giardino storico italiano, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
+[^8] Giovan Vettorio Soderini, Opere, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 343.
+[^9] Soderini, Opere, III:254.
+[^10] Firenzuola, “La grande arte della agricoltura,” 304; Soderini, Opere, III:254.
+[^11] Gerard, Herball, 1226; Soderini, Opere, III:343.
+[^12] Soderini, Opere, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy (New Haven and London: Yale University Press, 1990), 26, 291–292n.17.
+[^13] Soderini, Opere, III:295, 303, 343; Bernardo Davanzati, Toscana coltivazione delle viti e delli arbori (Florence: Giunti, 1622), 32.
+[^14] Soderini, Opere, III:255.
+[^15] Mattioli, Discorsi, 138; John Parkinson, Paradisi in sole paradisus terrestris (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, Curationem medicinaliam centuriae septem (Bordeaux: Vernot, 1620), 639–40.
+[^16]  Parkinson, 606; Gerard, Herball, 1225.
+[^17] Mattioli, Discorsi, 138; cf. Parkinson, Paradisi in sole, 606–07.
+[^18] Soderini, Opere, I:182.
+[^19] Soderini, Opere, I:151, 175.
+[^20] Gerard, Herball, 1225.
+[^21] Olivier de Serres, Théatre d’agriculture (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, Traite du jardinage (Paris: Vanlochom, 1638), 66.
+[^22] De Serres, Théatre d’agriculture, 506, 529.
+[^23] De Serres, Théatre d’agriculture, 529.
+[^24] Claude Mollet, Théatre des jardinage (Paris: De Sercy, 1663), 201–02.
+[^25] Mollet, Théatre des jardinage, 202–03.
+[^26] Mollet, Théatre des jardinage, 203.
 [^27] 
 [^28] 
 [^29] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NjYwNjYyXX0=
+eyJoaXN0b3J5IjpbLTg2NjUxMTY1NF19
 -->
