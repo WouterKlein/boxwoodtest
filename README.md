@@ -32,7 +32,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ## References
 
-[^1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371 (https://doi.org/10.1007/s00253-018-8936-2). 
+[^1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371.  doi: 10.1007/s00253-018-8936-2.
 [^2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the US. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 [^3]: _Beatrix Farrand’s Plant Book for Dumbarton Oaks_, ed. Diane Kostial McGuire (Washington, DC: Dumbarton Oaks, 1980), xiii.
 [^4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” _The Botany of Empire in the Long Eighteenth Century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
@@ -63,7 +63,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczMzYzNTksLTEwNDk0MDM0OTEsLT
-c1NTg4MTU5Niw1MDU4OTUyNjksNTc3NjM4NjgwLC0xNzIzODYz
-Mjc3XX0=
+eyJoaXN0b3J5IjpbLTMyOTYwOTk4MiwtMTk5NzMzNjM1OSwtMT
+A0OTQwMzQ5MSwtNzU1ODgxNTk2LDUwNTg5NTI2OSw1Nzc2Mzg2
+ODAsLTE3MjM4NjMyNzddfQ==
 -->
