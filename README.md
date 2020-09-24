@@ -1,6 +1,6 @@
 <param ve-config
 title="Boxwood"
-author="Wouter Klein"
+author="Anatole Tchikine"
 layout="vtl"
 banner="https://upload.wikimedia.org/wikipedia/commons/1/11/Buxus_sinica.jpg">
 
@@ -47,7 +47,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
 [^13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
 [^14]: Soderini, _Opere_, III:255.
-[^15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40.
+[^15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
 [^16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
 [^17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
 [^18]: Soderini, _Opere_, I:182.
@@ -59,11 +59,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-2.
 [^25]: Mollet, _Théatre des jardinage_, 202-3.
 [^26]: Mollet, _Théatre des jardinage_, 203.
-[^27]: Marco Lastri and Giuseppe Del Rosso, L’Osservatore fiorentino sugli edifizj della sua patria (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, Italian villas and their gardens (New York: The Century Co., 1904), 13 and passim.
-[^28]: Edith Wharton, A backward glance (New York, London: D. Appleton-Century Company, 1934), 130.
-[^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” Journal of the Royal Society of Arts, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
-[^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of Buxus microphylla and Buxus harlandii, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
+[^27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and passim.
+[^28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
+[^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
+[^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MzA4ODAsNTc3NjM4NjgwLC0xNzIzOD
-YzMjc3XX0=
+eyJoaXN0b3J5IjpbODU4NzQyOCw1Nzc2Mzg2ODAsLTE3MjM4Nj
+MyNzddfQ==
 -->
