@@ -52,18 +52,18 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
 [^18]: Soderini, _Opere_, I:182.
 [^19]: Soderini, _Opere_, I:151, 175.
-[^20]: Gerard, Herball, 1225.
-[^21]: Olivier de Serres, Théatre d’agriculture (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, Traite du jardinage (Paris: Vanlochom, 1638), 66.
-[^22]: De Serres, Théatre d’agriculture, 506, 529.
-[^23]: De Serres, Théatre d’agriculture, 529.
-[^24]: Claude Mollet, Théatre des jardinage (Paris: De Sercy, 1663), 201–02.
-[^25]: Mollet, Théatre des jardinage, 202–03.
-[^26]: Mollet, Théatre des jardinage, 203.
+[^20]: Gerard, _Herball_, 1225.
+[^21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
+[^22]: De Serres, _Théatre d’agriculture_, 506, 529.
+[^23]: De Serres, _Théatre d’agriculture_, 529.
+[^24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-2.
+[^25]: Mollet, _Théatre des jardinage_, 202-3.
+[^26]: Mollet, _Théatre des jardinage_, 203.
 [^27]: Marco Lastri and Giuseppe Del Rosso, L’Osservatore fiorentino sugli edifizj della sua patria (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, Italian villas and their gardens (New York: The Century Co., 1904), 13 and passim.
 [^28]: Edith Wharton, A backward glance (New York, London: D. Appleton-Century Company, 1934), 130.
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” Journal of the Royal Society of Arts, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of Buxus microphylla and Buxus harlandii, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2Njk3MTg2LDU3NzYzODY4MCwtMTcyMz
-g2MzI3N119
+eyJoaXN0b3J5IjpbNjQ0MzA4ODAsNTc3NjM4NjgwLC0xNzIzOD
+YzMjc3XX0=
 -->
