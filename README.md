@@ -32,7 +32,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prayer_Bead_with_the_Ad
 region="-3,42,1000,751">
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium and a half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well adapted to making the borders of such compartments, while their inside was filled with marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^22]
-<param ve-image title="Sixteenth-century Netherlandish rosary bead (interior)" url="https://iiif.lib.harvard.edu/manifests/view/drs:47289351$234i">
+<param ve-image title="Garden pattern, in Claude Mollet (c. 1564-c. 1649), Theatre des plans et iardinages. [1652], pl. 4., (seq. 234)" url="https://iiif.lib.harvard.edu/manifests/view/drs:47289351$234i">
 
 
 
@@ -77,7 +77,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA5ODQyNDQsNzg5MTE0ODEsMTMzMD
+eyJoaXN0b3J5IjpbLTIxMTUzNzE1ODgsNzg5MTE0ODEsMTMzMD
 EyNzgyNiwtMjExMDIzMjUzLDM4ODcwMzcyMiw1MTgwMDY4Miwx
 MDcyNzk3OTA5LC0yMDQyMDE0Njk1LC0xMjIzMDEzMjg3LC0xMz
 M5NTM2MzM0LC01NjUzNDI2MDcsMzQ2ODg0Njc1LC0xMjQ5MTky
