@@ -33,7 +33,7 @@ region="7,537,1000,751">
 region="-3,42,1000,751">
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium and a half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well adapted to making the borders of such compartments, while their inside was filled with marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^22]
-<param ve-image manifest= "https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json"
+<param ve-image manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json"
 title = "Garden pattern, in Claude Mollet (c. 1564-c. 1649), Theatre des plans et iardinages. [1652], pl. 4., (seq. 234)">
 
 Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^24] Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint Germain en Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^25] The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^26]
@@ -77,11 +77,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg0ODQwNTQsMTYzNTY5Nzk3Myw4Nj
-g4NTI5ODgsMzk4MTYxNTc1LC0yMTE1MzcxNTg4LDc4OTExNDgx
-LDEzMzAxMjc4MjYsLTIxMTAyMzI1MywzODg3MDM3MjIsNTE4MD
-A2ODIsMTA3Mjc5NzkwOSwtMjA0MjAxNDY5NSwtMTIyMzAxMzI4
-NywtMTMzOTUzNjMzNCwtNTY1MzQyNjA3LDM0Njg4NDY3NSwtMT
-I0OTE5Mjg0MSw3NzY1MzA5MzEsLTE5OTczMzYzNTksLTEwNDk0
-MDM0OTFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTk5MzMzOTQsLTE2OTg0ODQwNTQsMT
+YzNTY5Nzk3Myw4Njg4NTI5ODgsMzk4MTYxNTc1LC0yMTE1Mzcx
+NTg4LDc4OTExNDgxLDEzMzAxMjc4MjYsLTIxMTAyMzI1MywzOD
+g3MDM3MjIsNTE4MDA2ODIsMTA3Mjc5NzkwOSwtMjA0MjAxNDY5
+NSwtMTIyMzAxMzI4NywtMTMzOTUzNjMzNCwtNTY1MzQyNjA3LD
+M0Njg4NDY3NSwtMTI0OTE5Mjg0MSw3NzY1MzA5MzEsLTE5OTcz
+MzYzNTldfQ==
 -->
