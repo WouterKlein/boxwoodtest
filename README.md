@@ -27,7 +27,8 @@ region="-69,625,501,376">
 If Mattioli and Parkinson considered boxwood primarily an ornamental plant “well adapted to weaving espaliers in gardens and dividing one space from another,”[^17] its slow growth rate had important industrial implications. Hardened through the process of gradual maturation, its timber acquired such valued qualities as durability and density, making it indeed similar to guaiacum.[^18] Boxwood, according to Soderini, could last “forever” and “was good for the printing industry and other fine woodwork.”[^19] Since it lent itself well to lathing, Gerard considered it particularly suitable for “dagger hafts, boxes, and suchlike uses.”[^20] Sixteenth-century Netherlandish rosary beads—true miracles of late Gothic craftsmanship—testify to these remarkable properties. These exquisite boxwood carvings, which often measure less than two inches in diameter, could represent on a tiny scale multi-figure biblical scenes without losing any of their dramatic intensity.
 <param ve-image title="Sixteenth-century Netherlandish rosary bead (exterior)" url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371957.jpg">
 <param ve-image title="Sixteenth-century Netherlandish rosary bead (interior)"
-url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371961.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371961.jpg"
+region="7,537,1000,751">
 <param ve-image title="Sixteenth-century Netherlandish rosary bead (interior)" url="https://images.metmuseum.org/CRDImages/md/original/DP371962.jpg"
 region="-3,42,1000,751">
 
@@ -79,11 +80,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MTYxNTc1LC0yMTE1MzcxNTg4LDc4OT
-ExNDgxLDEzMzAxMjc4MjYsLTIxMTAyMzI1MywzODg3MDM3MjIs
-NTE4MDA2ODIsMTA3Mjc5NzkwOSwtMjA0MjAxNDY5NSwtMTIyMz
-AxMzI4NywtMTMzOTUzNjMzNCwtNTY1MzQyNjA3LDM0Njg4NDY3
-NSwtMTI0OTE5Mjg0MSw3NzY1MzA5MzEsLTE5OTczMzYzNTksLT
-EwNDk0MDM0OTEsLTc1NTg4MTU5Niw1MDU4OTUyNjksNTc3NjM4
-NjgwXX0=
+eyJoaXN0b3J5IjpbODY4ODUyOTg4LDM5ODE2MTU3NSwtMjExNT
+M3MTU4OCw3ODkxMTQ4MSwxMzMwMTI3ODI2LC0yMTEwMjMyNTMs
+Mzg4NzAzNzIyLDUxODAwNjgyLDEwNzI3OTc5MDksLTIwNDIwMT
+Q2OTUsLTEyMjMwMTMyODcsLTEzMzk1MzYzMzQsLTU2NTM0MjYw
+NywzNDY4ODQ2NzUsLTEyNDkxOTI4NDEsNzc2NTMwOTMxLC0xOT
+k3MzM2MzU5LC0xMDQ5NDAzNDkxLC03NTU4ODE1OTYsNTA1ODk1
+MjY5XX0=
 -->
