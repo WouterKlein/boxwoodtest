@@ -91,10 +91,10 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
 <param ve-image
 	title="Box Terrace at Dumbarton Oaks"
-	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
+	url="">
 <param ve-image
 	title="Box Ellipse at Dumbarton Oaks"
-	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
+	url="">
 
 ### “A plant known to everybody”
 
@@ -193,11 +193,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjczMjA2OSwxMzg3NjU4MDc4LC0yOT
-g2NDg4NiwtNzIzNDgzMjc0LDg0NTQxMjc5OSwxMjA1Njc4Njk0
-LC0xOTcyNjg4NzQ4LC05NTcyMTc1NTksLTE5MTg2MzY0ODcsOT
-U4ODA5NDAwLC0yMDU1NjM0Mjc5LDEyNzk3NzE2MTEsLTU1NDg2
-MTkzMSwxNDIzMTg1Mjc4LDM0MDU0MjgyOCwtMzc3MTAwODg0LD
-U4MTcwNjQ3NSwxOTA4NzMxNzk1LC0xOTg4MDc1MjM2LDEzNDAx
-MDc0NzldfQ==
+eyJoaXN0b3J5IjpbNDYzODAwNjQ1LDExMzY3MzIwNjksMTM4Nz
+Y1ODA3OCwtMjk4NjQ4ODYsLTcyMzQ4MzI3NCw4NDU0MTI3OTks
+MTIwNTY3ODY5NCwtMTk3MjY4ODc0OCwtOTU3MjE3NTU5LC0xOT
+E4NjM2NDg3LDk1ODgwOTQwMCwtMjA1NTYzNDI3OSwxMjc5Nzcx
+NjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3OCwzNDA1NDI4MjgsLT
+M3NzEwMDg4NCw1ODE3MDY0NzUsMTkwODczMTc5NSwtMTk4ODA3
+NTIzNl19
 -->
