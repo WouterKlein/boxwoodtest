@@ -107,7 +107,7 @@ region="7,537,1000,751">
 region="-3,42,1000,751">
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium and a half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well adapted to making the borders of such compartments, while their inside was filled with marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^22]
-<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:47290326"
+<param ve-image iiif-url="https://iiif.lib.harvard.edu/manifests/drs:47290326"
 title = "Garden pattern, in Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_. [1652], f. [95]. plate 8 (seq. 196)">
 
 
@@ -153,11 +153,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg2MzY0ODcsOTU4ODA5NDAwLC0yMD
-U1NjM0Mjc5LDEyNzk3NzE2MTEsLTU1NDg2MTkzMSwxNDIzMTg1
-Mjc4LDM0MDU0MjgyOCwtMzc3MTAwODg0LDU4MTcwNjQ3NSwxOT
-A4NzMxNzk1LC0xOTg4MDc1MjM2LDEzNDAxMDc0NzksMjA2NjY2
-NzI0NSwxMzQwMTA3NDc5LC0yMDU3NjQxODg5LC0xMTIzNTQ2OD
-AxLDIwNTg5NDkzNzQsLTIwMTE2NDE5NTQsMTcwNjI1MTY3NSwt
-MTA5OTkzMzM5NF19
+eyJoaXN0b3J5IjpbLTE1NzY3NDM1OSwtMTkxODYzNjQ4Nyw5NT
+g4MDk0MDAsLTIwNTU2MzQyNzksMTI3OTc3MTYxMSwtNTU0ODYx
+OTMxLDE0MjMxODUyNzgsMzQwNTQyODI4LC0zNzcxMDA4ODQsNT
+gxNzA2NDc1LDE5MDg3MzE3OTUsLTE5ODgwNzUyMzYsMTM0MDEw
+NzQ3OSwyMDY2NjY3MjQ1LDEzNDAxMDc0NzksLTIwNTc2NDE4OD
+ksLTExMjM1NDY4MDEsMjA1ODk0OTM3NCwtMjAxMTY0MTk1NCwx
+NzA2MjUxNjc1XX0=
 -->
