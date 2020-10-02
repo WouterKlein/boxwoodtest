@@ -90,6 +90,9 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 ### “A plant known to everybody”
 
 How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^4] An integral element in the Mediterranean maquis, boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
+<param ve-image
+	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
 
 ### Ancient love vs. early modern dismissal
 
@@ -181,11 +184,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjI0MTE0MSw4NDU0MTI3OTksMTIwNT
-Y3ODY5NCwtMTk3MjY4ODc0OCwtOTU3MjE3NTU5LC0xOTE4NjM2
-NDg3LDk1ODgwOTQwMCwtMjA1NTYzNDI3OSwxMjc5NzcxNjExLC
-01NTQ4NjE5MzEsMTQyMzE4NTI3OCwzNDA1NDI4MjgsLTM3NzEw
-MDg4NCw1ODE3MDY0NzUsMTkwODczMTc5NSwtMTk4ODA3NTIzNi
-wxMzQwMTA3NDc5LDIwNjY2NjcyNDUsMTM0MDEwNzQ3OSwtMjA1
-NzY0MTg4OV19
+eyJoaXN0b3J5IjpbLTE5MzYxMjA1MDYsODQ1NDEyNzk5LDEyMD
+U2Nzg2OTQsLTE5NzI2ODg3NDgsLTk1NzIxNzU1OSwtMTkxODYz
+NjQ4Nyw5NTg4MDk0MDAsLTIwNTU2MzQyNzksMTI3OTc3MTYxMS
+wtNTU0ODYxOTMxLDE0MjMxODUyNzgsMzQwNTQyODI4LC0zNzcx
+MDA4ODQsNTgxNzA2NDc1LDE5MDg3MzE3OTUsLTE5ODgwNzUyMz
+YsMTM0MDEwNzQ3OSwyMDY2NjY3MjQ1LDEzNDAxMDc0NzksLTIw
+NTc2NDE4ODldfQ==
 -->
