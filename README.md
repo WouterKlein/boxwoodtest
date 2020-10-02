@@ -142,7 +142,7 @@ Yet, in practical terms, borders involving a combination of different shrubs as 
 <param ve-map
 	title="French royal gardens where Claude Mollet experimented with boxwood"
 	center="Q90"
-	zoom="8.5">
+	zoom="8">
 
 ### A global garden element
 
@@ -187,11 +187,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTk3MDgzOSwyNjQ2OTQ1MjYsMjY0Nj
-k0NTI2LC02OTUyNjY4OSw0NjM4MDA2NDUsMTEzNjczMjA2OSwx
-Mzg3NjU4MDc4LC0yOTg2NDg4NiwtNzIzNDgzMjc0LDg0NTQxMj
-c5OSwxMjA1Njc4Njk0LC0xOTcyNjg4NzQ4LC05NTcyMTc1NTks
-LTE5MTg2MzY0ODcsOTU4ODA5NDAwLC0yMDU1NjM0Mjc5LDEyNz
-k3NzE2MTEsLTU1NDg2MTkzMSwxNDIzMTg1Mjc4LDM0MDU0Mjgy
+eyJoaXN0b3J5IjpbMjY0Njk0NTI2LDEzMjU5NzA4MzksMjY0Nj
+k0NTI2LDI2NDY5NDUyNiwtNjk1MjY2ODksNDYzODAwNjQ1LDEx
+MzY3MzIwNjksMTM4NzY1ODA3OCwtMjk4NjQ4ODYsLTcyMzQ4Mz
+I3NCw4NDU0MTI3OTksMTIwNTY3ODY5NCwtMTk3MjY4ODc0OCwt
+OTU3MjE3NTU5LC0xOTE4NjM2NDg3LDk1ODgwOTQwMCwtMjA1NT
+YzNDI3OSwxMjc5NzcxNjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3
 OF19
 -->
