@@ -141,7 +141,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past. 
 
-### Humb
+### Humble yet resilient
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^30]
 
@@ -178,11 +178,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg4MjM5NjgsLTE5NzI2ODg3NDgsLT
-k1NzIxNzU1OSwtMTkxODYzNjQ4Nyw5NTg4MDk0MDAsLTIwNTU2
-MzQyNzksMTI3OTc3MTYxMSwtNTU0ODYxOTMxLDE0MjMxODUyNz
-gsMzQwNTQyODI4LC0zNzcxMDA4ODQsNTgxNzA2NDc1LDE5MDg3
-MzE3OTUsLTE5ODgwNzUyMzYsMTM0MDEwNzQ3OSwyMDY2NjY3Mj
-Q1LDEzNDAxMDc0NzksLTIwNTc2NDE4ODksLTExMjM1NDY4MDEs
-MjA1ODk0OTM3NF19
+eyJoaXN0b3J5IjpbMTIwNTY3ODY5NCwtMTk3MjY4ODc0OCwtOT
+U3MjE3NTU5LC0xOTE4NjM2NDg3LDk1ODgwOTQwMCwtMjA1NTYz
+NDI3OSwxMjc5NzcxNjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3OC
+wzNDA1NDI4MjgsLTM3NzEwMDg4NCw1ODE3MDY0NzUsMTkwODcz
+MTc5NSwtMTk4ODA3NTIzNiwxMzQwMTA3NDc5LDIwNjY2NjcyND
+UsMTM0MDEwNzQ3OSwtMjA1NzY0MTg4OSwtMTEyMzU0NjgwMSwy
+MDU4OTQ5Mzc0XX0=
 -->
