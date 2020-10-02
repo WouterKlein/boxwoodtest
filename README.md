@@ -107,8 +107,9 @@ region="7,537,1000,751">
 region="-3,42,1000,751">
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium and a half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well adapted to making the borders of such compartments, while their inside was filled with marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^21] Horticultural theorist Olivier de Serres emphasized boxwood’s resistance to the effects of weather and time and its need for little care, favorably contrasting it with myrtle, which was less suitable for colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^22]
-<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
-title = "Garden pattern, in Claude Mollet (c. 1564-c. 1649), Theatre des plans et iardinages. [1652], pl. 4., (seq. 234)">
+<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:47290326"
+title = "Garden pattern, in Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_. [1652], pl. 4., (seq. 234)">
+f. [95]. plate 8 (seq. 196)
 
 Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^24] Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^25] The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^26]
 <param ve-map title="French royal gardens where Claude Mollet experimented with boxwood" center="Q90" zoom="7">
@@ -152,11 +153,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4ODA5NDAwLC0yMDU1NjM0Mjc5LDEyNz
-k3NzE2MTEsLTU1NDg2MTkzMSwxNDIzMTg1Mjc4LDM0MDU0Mjgy
-OCwtMzc3MTAwODg0LDU4MTcwNjQ3NSwxOTA4NzMxNzk1LC0xOT
-g4MDc1MjM2LDEzNDAxMDc0NzksMjA2NjY2NzI0NSwxMzQwMTA3
-NDc5LC0yMDU3NjQxODg5LC0xMTIzNTQ2ODAxLDIwNTg5NDkzNz
-QsLTIwMTE2NDE5NTQsMTcwNjI1MTY3NSwtMTA5OTkzMzM5NCwt
-MTY5ODQ4NDA1NF19
+eyJoaXN0b3J5IjpbNjM2NTMyMDEyLDk1ODgwOTQwMCwtMjA1NT
+YzNDI3OSwxMjc5NzcxNjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3
+OCwzNDA1NDI4MjgsLTM3NzEwMDg4NCw1ODE3MDY0NzUsMTkwOD
+czMTc5NSwtMTk4ODA3NTIzNiwxMzQwMTA3NDc5LDIwNjY2Njcy
+NDUsMTM0MDEwNzQ3OSwtMjA1NzY0MTg4OSwtMTEyMzU0NjgwMS
+wyMDU4OTQ5Mzc0LC0yMDExNjQxOTU0LDE3MDYyNTE2NzUsLTEw
+OTk5MzMzOTRdfQ==
 -->
