@@ -1,5 +1,5 @@
 <param ve-config
-	title="Boxwood"
+	title="Boxwood: A humble yet resilient plant that took over the garden world"
 	banner="https://upload.wikimedia.org/wikipedia/commons/1/11/Buxus_sinica.jpg"
 	layout="vtl"
 	num-maps=""
@@ -81,11 +81,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzkyNjIwNCwxNzA2MjUxNjc1LC0xMD
-k5OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUy
-OTg4LDM5ODE2MTU3NSwtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMz
-MwMTI3ODI2LC0yMTEwMjMyNTMsMzg4NzAzNzIyLDUxODAwNjgy
-LDEwNzI3OTc5MDksLTIwNDIwMTQ2OTUsLTEyMjMwMTMyODcsLT
-EzMzk1MzYzMzQsLTU2NTM0MjYwNywzNDY4ODQ2NzUsLTEyNDkx
-OTI4NDFdfQ==
+eyJoaXN0b3J5IjpbLTg0MjAyOTQsMTcwNjI1MTY3NSwtMTA5OT
+kzMzM5NCwtMTY5ODQ4NDA1NCwxNjM1Njk3OTczLDg2ODg1Mjk4
+OCwzOTgxNjE1NzUsLTIxMTUzNzE1ODgsNzg5MTE0ODEsMTMzMD
+EyNzgyNiwtMjExMDIzMjUzLDM4ODcwMzcyMiw1MTgwMDY4Miwx
+MDcyNzk3OTA5LC0yMDQyMDE0Njk1LC0xMjIzMDEzMjg3LC0xMz
+M5NTM2MzM0LC01NjUzNDI2MDcsMzQ2ODg0Njc1LC0xMjQ5MTky
+ODQxXX0=
 -->
