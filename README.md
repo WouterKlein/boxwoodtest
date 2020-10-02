@@ -145,7 +145,7 @@ Closely connected with these expatriate circles was British landscape architect 
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^30]
 
-## References
+### References
 
 [^1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371. (https://doi.org/10.1007/s00253-018-8936-2). 
 [^2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the US. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
@@ -178,11 +178,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTY3ODY5NCwtMTk3MjY4ODc0OCwtOT
-U3MjE3NTU5LC0xOTE4NjM2NDg3LDk1ODgwOTQwMCwtMjA1NTYz
-NDI3OSwxMjc5NzcxNjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3OC
-wzNDA1NDI4MjgsLTM3NzEwMDg4NCw1ODE3MDY0NzUsMTkwODcz
-MTc5NSwtMTk4ODA3NTIzNiwxMzQwMTA3NDc5LDIwNjY2NjcyND
-UsMTM0MDEwNzQ3OSwtMjA1NzY0MTg4OSwtMTEyMzU0NjgwMSwy
-MDU4OTQ5Mzc0XX0=
+eyJoaXN0b3J5IjpbODQ1NDEyNzk5LDEyMDU2Nzg2OTQsLTE5Nz
+I2ODg3NDgsLTk1NzIxNzU1OSwtMTkxODYzNjQ4Nyw5NTg4MDk0
+MDAsLTIwNTU2MzQyNzksMTI3OTc3MTYxMSwtNTU0ODYxOTMxLD
+E0MjMxODUyNzgsMzQwNTQyODI4LC0zNzcxMDA4ODQsNTgxNzA2
+NDc1LDE5MDg3MzE3OTUsLTE5ODgwNzUyMzYsMTM0MDEwNzQ3OS
+wyMDY2NjY3MjQ1LDEzNDAxMDc0NzksLTIwNTc2NDE4ODksLTEx
+MjM1NDY4MDFdfQ==
 -->
