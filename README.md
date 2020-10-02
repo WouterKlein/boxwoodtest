@@ -83,6 +83,9 @@
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.” One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat. 
+<param ve-image
+	title="Boxwood blight"
+	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
 
 ### “A plant known to everybody”
 
@@ -178,11 +181,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NDEyNzk5LDEyMDU2Nzg2OTQsLTE5Nz
-I2ODg3NDgsLTk1NzIxNzU1OSwtMTkxODYzNjQ4Nyw5NTg4MDk0
-MDAsLTIwNTU2MzQyNzksMTI3OTc3MTYxMSwtNTU0ODYxOTMxLD
-E0MjMxODUyNzgsMzQwNTQyODI4LC0zNzcxMDA4ODQsNTgxNzA2
-NDc1LDE5MDg3MzE3OTUsLTE5ODgwNzUyMzYsMTM0MDEwNzQ3OS
-wyMDY2NjY3MjQ1LDEzNDAxMDc0NzksLTIwNTc2NDE4ODksLTEx
-MjM1NDY4MDFdfQ==
+eyJoaXN0b3J5IjpbMTEzNjI0MTE0MSw4NDU0MTI3OTksMTIwNT
+Y3ODY5NCwtMTk3MjY4ODc0OCwtOTU3MjE3NTU5LC0xOTE4NjM2
+NDg3LDk1ODgwOTQwMCwtMjA1NTYzNDI3OSwxMjc5NzcxNjExLC
+01NTQ4NjE5MzEsMTQyMzE4NTI3OCwzNDA1NDI4MjgsLTM3NzEw
+MDg4NCw1ODE3MDY0NzUsMTkwODczMTc5NSwtMTk4ODA3NTIzNi
+wxMzQwMTA3NDc5LDIwNjY2NjcyNDUsMTM0MDEwNzQ3OSwtMjA1
+NzY0MTg4OV19
 -->
