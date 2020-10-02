@@ -22,7 +22,7 @@
 <param title="Pliny the Younger" eid="Q168707">
 <param title="topiary park" eid="Q57502475" aliases="topiary work">
 <param title="pruning" eid="Q500094">
-<param title="myrtle" eid="Q6122027">
+<param title="Myrtus communis L." eid="Q6122027" aliases="myrtle">
 <param title="viburnum (Viburnum tinus)" eid="Q1321268">
 <param title="Laurus nobilis" eid="Q26006" aliases="laurel">
 <param title="espalier" eid="Q1754876" aliases="espaliers">
@@ -149,11 +149,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNzA2NDc1LDE5MDg3MzE3OTUsLTE5OD
-gwNzUyMzYsMTM0MDEwNzQ3OSwyMDY2NjY3MjQ1LDEzNDAxMDc0
-NzksLTIwNTc2NDE4ODksLTExMjM1NDY4MDEsMjA1ODk0OTM3NC
-wtMjAxMTY0MTk1NCwxNzA2MjUxNjc1LC0xMDk5OTMzMzk0LC0x
-Njk4NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUyOTg4LDM5ODE2MT
-U3NSwtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMzMwMTI3ODI2LC0y
-MTEwMjMyNTNdfQ==
+eyJoaXN0b3J5IjpbNjgxMDU3OTkxLDU4MTcwNjQ3NSwxOTA4Nz
+MxNzk1LC0xOTg4MDc1MjM2LDEzNDAxMDc0NzksMjA2NjY2NzI0
+NSwxMzQwMTA3NDc5LC0yMDU3NjQxODg5LC0xMTIzNTQ2ODAxLD
+IwNTg5NDkzNzQsLTIwMTE2NDE5NTQsMTcwNjI1MTY3NSwtMTA5
+OTkzMzM5NCwtMTY5ODQ4NDA1NCwxNjM1Njk3OTczLDg2ODg1Mj
+k4OCwzOTgxNjE1NzUsLTIxMTUzNzE1ODgsNzg5MTE0ODEsMTMz
+MDEyNzgyNl19
 -->
