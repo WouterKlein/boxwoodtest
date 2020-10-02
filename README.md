@@ -58,7 +58,7 @@
 <param title="Claude Mollet" eid="Q919880">
 <param title="astrology" eid="Q34362">
 <param title="Henri IV" eid="Q936976">
-<param title="Saint-Germain-en-Laye" eid="Q60847808" aliases="Saint Germain en Laye">
+<param title="Saint-Germain-en-Laye" eid="Q60847808">
 <param title="Monceaux" eid="Q1440821">
 <param title="Fontainebleau" eid="Q182872">
 <param title="gardens of Versailles" eid="Q3162464">
@@ -110,7 +110,7 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 <param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 title = "Garden pattern, in Claude Mollet (c. 1564-c. 1649), Theatre des plans et iardinages. [1652], pl. 4., (seq. 234)">
 
-Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^24] Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint Germain en Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^25] The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^26]
+Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^24] Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^25] The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^26]
 <param ve-map title="French royal gardens where Claude Mollet experimented with boxwood" center="42.2813, -83.7483" zoom="6">
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—with their boxwood parterres, bowers (_berceau_), and a labyrinth—created for Louis XIV by André Le Nôtre, from where they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^28]
@@ -152,11 +152,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDg2MTkzMSwxNDIzMTg1Mjc4LDM0MD
-U0MjgyOCwtMzc3MTAwODg0LDU4MTcwNjQ3NSwxOTA4NzMxNzk1
-LC0xOTg4MDc1MjM2LDEzNDAxMDc0NzksMjA2NjY2NzI0NSwxMz
-QwMTA3NDc5LC0yMDU3NjQxODg5LC0xMTIzNTQ2ODAxLDIwNTg5
-NDkzNzQsLTIwMTE2NDE5NTQsMTcwNjI1MTY3NSwtMTA5OTkzMz
-M5NCwtMTY5ODQ4NDA1NCwxNjM1Njk3OTczLDg2ODg1Mjk4OCwz
-OTgxNjE1NzVdfQ==
+eyJoaXN0b3J5IjpbMTI3OTc3MTYxMSwtNTU0ODYxOTMxLDE0Mj
+MxODUyNzgsMzQwNTQyODI4LC0zNzcxMDA4ODQsNTgxNzA2NDc1
+LDE5MDg3MzE3OTUsLTE5ODgwNzUyMzYsMTM0MDEwNzQ3OSwyMD
+Y2NjY3MjQ1LDEzNDAxMDc0NzksLTIwNTc2NDE4ODksLTExMjM1
+NDY4MDEsMjA1ODk0OTM3NCwtMjAxMTY0MTk1NCwxNzA2MjUxNj
+c1LC0xMDk5OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMs
+ODY4ODUyOTg4XX0=
 -->
