@@ -24,9 +24,9 @@
 <param title="pruning" eid="Q500094">
 <param title="myrtle" eid="Q6122027">
 <param title="viburnum (Viburnum tinus)" eid="Q1321268">
-<param title="laurel" eid="Q26006">
-<param title="espalier" eid="Q1754876">
-<param title="hedge" eid="Q235779">
+<param title="Laurus nobilis" eid="Q26006" aliases="laurel">
+<param title="espalier" eid="Q1754876" aliases="espaliers">
+<param title="hedge" eid="Q235779" aliases="hedges">
 <param title="Giovan Vettorio Soderini" eid="Q1102344">
 <param title="cypress" eid="Q146911">
 <param title="John Gerard" eid="Q1333338">
@@ -149,11 +149,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgwNzUyMzYsMTM0MDEwNzQ3OSwyMD
-Y2NjY3MjQ1LDEzNDAxMDc0NzksLTIwNTc2NDE4ODksLTExMjM1
-NDY4MDEsMjA1ODk0OTM3NCwtMjAxMTY0MTk1NCwxNzA2MjUxNj
-c1LC0xMDk5OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMs
-ODY4ODUyOTg4LDM5ODE2MTU3NSwtMjExNTM3MTU4OCw3ODkxMT
-Q4MSwxMzMwMTI3ODI2LC0yMTEwMjMyNTMsMzg4NzAzNzIyLDUx
-ODAwNjgyXX0=
+eyJoaXN0b3J5IjpbMTkwODczMTc5NSwtMTk4ODA3NTIzNiwxMz
+QwMTA3NDc5LDIwNjY2NjcyNDUsMTM0MDEwNzQ3OSwtMjA1NzY0
+MTg4OSwtMTEyMzU0NjgwMSwyMDU4OTQ5Mzc0LC0yMDExNjQxOT
+U0LDE3MDYyNTE2NzUsLTEwOTk5MzMzOTQsLTE2OTg0ODQwNTQs
+MTYzNTY5Nzk3Myw4Njg4NTI5ODgsMzk4MTYxNTc1LC0yMTE1Mz
+cxNTg4LDc4OTExNDgxLDEzMzAxMjc4MjYsLTIxMTAyMzI1Mywz
+ODg3MDM3MjJdfQ==
 -->
