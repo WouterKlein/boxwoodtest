@@ -11,15 +11,15 @@
 <param title="Cylindrocladium buxicola" eid="Q3008672">
 <param title="fungus" eid="Q764">
 <param title="spore" eid="Q177332" aliases="spores">
-<param title="Boxwood" eid="Q158703">
-<param title="shrubs" eid="Q42295">
-<param title="common boxwood" eid="Q27344">
+<param title="Buxus" eid="Q158703" aliases-"Boxwood">
+<param title="shrubs" eid="Q42295" aliases="shrub">
+<param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="hornbeam" eid="Q59779148">
-<param title="yew" eid="Q27355">
-<param title="holly" eid="Q117085">
+<param title="Taxus" eid="Q27355" aliases="yew">
+<param title="Ilex" eid="Q117085" aliases= "holly">
 <param title="Pliny the Younger" eid="Q168707">
-<param title="topiary work" eid="Q57502475">
+<param title="topiary park" eid="Q57502475" aliases="topiary work">
 <param title="pruning" eid="Q500094">
 <param title="myrtle" eid="Q6122027">
 <param title="viburnum (Viburnum tinus)" eid="Q1321268">
@@ -74,7 +74,6 @@
 <param title="Fiesole" eid="Q82670">
 <param title="Geoffrey Jellicoe" eid="Q1502930">
 <param title="Italian Renaissance garden" eid="Q3244939">
-
 
 ### Subtitle1
 
@@ -149,11 +148,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc2NDE4ODksLTExMjM1NDY4MDEsMj
-A1ODk0OTM3NCwtMjAxMTY0MTk1NCwxNzA2MjUxNjc1LC0xMDk5
-OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUyOT
-g4LDM5ODE2MTU3NSwtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMzMw
-MTI3ODI2LC0yMTEwMjMyNTMsMzg4NzAzNzIyLDUxODAwNjgyLD
-EwNzI3OTc5MDksLTIwNDIwMTQ2OTUsLTEyMjMwMTMyODcsLTEz
-Mzk1MzYzMzRdfQ==
+eyJoaXN0b3J5IjpbMTM0MDEwNzQ3OSwtMjA1NzY0MTg4OSwtMT
+EyMzU0NjgwMSwyMDU4OTQ5Mzc0LC0yMDExNjQxOTU0LDE3MDYy
+NTE2NzUsLTEwOTk5MzMzOTQsLTE2OTg0ODQwNTQsMTYzNTY5Nz
+k3Myw4Njg4NTI5ODgsMzk4MTYxNTc1LC0yMTE1MzcxNTg4LDc4
+OTExNDgxLDEzMzAxMjc4MjYsLTIxMTAyMzI1MywzODg3MDM3Mj
+IsNTE4MDA2ODIsMTA3Mjc5NzkwOSwtMjA0MjAxNDY5NSwtMTIy
+MzAxMzI4N119
 -->
