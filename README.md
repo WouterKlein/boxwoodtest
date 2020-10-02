@@ -13,7 +13,7 @@
 <param title="spore" eid="Q177332" aliases="spores">
 <param title="Buxus" eid="Q158703" aliases-"Boxwood">
 <param title="shrubs" eid="Q42295" aliases="shrub">
-<param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood (_Buxus sempervirens ‘Suffruticosa’_)">
+<param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="hornbeam" eid="Q59779148">
 <param title="Taxus" eid="Q27355" aliases="yew">
@@ -148,11 +148,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjY2NzI0NSwxMzQwMTA3NDc5LC0yMD
-U3NjQxODg5LC0xMTIzNTQ2ODAxLDIwNTg5NDkzNzQsLTIwMTE2
-NDE5NTQsMTcwNjI1MTY3NSwtMTA5OTkzMzM5NCwtMTY5ODQ4ND
-A1NCwxNjM1Njk3OTczLDg2ODg1Mjk4OCwzOTgxNjE1NzUsLTIx
-MTUzNzE1ODgsNzg5MTE0ODEsMTMzMDEyNzgyNiwtMjExMDIzMj
-UzLDM4ODcwMzcyMiw1MTgwMDY4MiwxMDcyNzk3OTA5LC0yMDQy
-MDE0Njk1XX0=
+eyJoaXN0b3J5IjpbMTM0MDEwNzQ3OSwyMDY2NjY3MjQ1LDEzND
+AxMDc0NzksLTIwNTc2NDE4ODksLTExMjM1NDY4MDEsMjA1ODk0
+OTM3NCwtMjAxMTY0MTk1NCwxNzA2MjUxNjc1LC0xMDk5OTMzMz
+k0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUyOTg4LDM5
+ODE2MTU3NSwtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMzMwMTI3OD
+I2LC0yMTEwMjMyNTMsMzg4NzAzNzIyLDUxODAwNjgyLDEwNzI3
+OTc5MDldfQ==
 -->
