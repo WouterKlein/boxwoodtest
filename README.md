@@ -7,7 +7,74 @@
 	num-specimens=""
 	num-primary-sources=""
 	author="Anatole Tchikine">
-<param title="" eid="" aliases="">
+<param title="Boxwood blight" eid="Q4952010">
+<param title="Cylindrocladium buxicola" eid="Q3008672">
+<param title="fungus" eid="Q764">
+<param title="spores" eid="Q177332">
+<param title="Boxwood" eid="Q158703">
+<param title="shrubs" eid="Q42295">
+<param title="common boxwood" eid="Q27344">
+<param title="Dumbarton Oaks" eid="Q1264942">
+<param title="hornbeam" eid="Q59779148">
+<param title="yew" eid="Q27355">
+<param title="holly" eid="Q117085">
+<param title="Pliny the Younger" eid="Q168707">
+<param title="topiary work" eid="Q57502475">
+<param title="pruning" eid="Q500094">
+<param title="myrtle" eid="Q6122027">
+<param title="viburnum (Viburnum tinus)" eid="Q1321268">
+<param title="laurel" eid="Q26006">
+<param title="espalier" eid="Q1754876">
+<param title="hedge" eid="Q235779">
+<param title="Giovan Vettorio Soderini" eid="Q1102344">
+<param title="cypress" eid="Q146911">
+<param title="John Gerard" eid="Q1333338">
+<param title="mastic" eid="Q16875777">
+<param title="rosemary" eid="Q122679">
+<param title="Amato Lusitano" eid="Q455777">
+<param title="guaiacum" eid="Q1429385">
+<param title="syphilis" eid="Q41083">
+<param title="Pietro Andrea Mattioli" eid="Q457191">
+<param title="John Parkinson" eid="Q37393560">
+<param title="botfly" eid="Q27485">
+<param title="apoplexy" eid="Q8264724">
+<param title="rosary" eid="Q132539">
+<param title="lavender" eid="Q171892">
+<param title="juniper" eid="Q26325">
+<param title="marjoram" eid="Q22694">
+<param title="thyme" eid="Q3215980">
+<param title="hyssop" eid="Q137931">
+<param title="pennyroyal" eid="Q161235">
+<param title="sage" eid="Q1111359">
+<param title="chamomile" eid="Q14169150">
+<param title="mint" eid="Q47859">
+<param title="violets" eid="Q146095">
+<param title="marguerites" eid="Q21040">
+<param title="basil" eid="Q38859">
+<param title="Olivier de Serres" eid="Q597422">
+<param title="Claude Mollet" eid="Q919880">
+<param title="astrology" eid="Q34362">
+<param title="Henri IV" eid="Q936976">
+<param title="Saint Germain en Laye" eid="Q60847808">
+<param title="Monceaux" eid="Q1440821">
+<param title="Fontainebleau" eid="Q182872">
+<param title="gardens of Versailles" eid="Q3162464">
+<param title="Louis XIV" eid="Q7742">
+<param title="André Le Nôtre" eid="Q273849">
+<param title="Yuanming Yuan (Old Summer Palace)" eid="Q907894">
+<param title="Beijing" eid="Q956">
+<param title="Giuseppe Castiglione" eid="Q458671">
+<param title="Marco Lastri" eid="Q30234184">
+<param title="Edith Wharton" eid="Q276032">
+<param title="Cecil Pinsent" eid="Q3664091">
+<param title="Villa I Tatti" eid="Q55373684">
+<param title="Settignano" eid="Q942605">
+<param title="Bernard Berenson" eid="Q359047">
+<param title="Villa Medici" eid="Q1362663">
+<param title="Fiesole" eid="Q82670">
+<param title="Geoffrey Jellicoe" eid="Q1502930">
+<param title="Italian Renaissance garden" eid="Q3244939">
+
 
 ## Subtitle1
 
@@ -82,11 +149,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE2NDE5NTQsMTcwNjI1MTY3NSwtMT
-A5OTkzMzM5NCwtMTY5ODQ4NDA1NCwxNjM1Njk3OTczLDg2ODg1
-Mjk4OCwzOTgxNjE1NzUsLTIxMTUzNzE1ODgsNzg5MTE0ODEsMT
-MzMDEyNzgyNiwtMjExMDIzMjUzLDM4ODcwMzcyMiw1MTgwMDY4
-MiwxMDcyNzk3OTA5LC0yMDQyMDE0Njk1LC0xMjIzMDEzMjg3LC
-0xMzM5NTM2MzM0LC01NjUzNDI2MDcsMzQ2ODg0Njc1LC0xMjQ5
-MTkyODQxXX0=
+eyJoaXN0b3J5IjpbMjA1ODk0OTM3NCwtMjAxMTY0MTk1NCwxNz
+A2MjUxNjc1LC0xMDk5OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2
+OTc5NzMsODY4ODUyOTg4LDM5ODE2MTU3NSwtMjExNTM3MTU4OC
+w3ODkxMTQ4MSwxMzMwMTI3ODI2LC0yMTEwMjMyNTMsMzg4NzAz
+NzIyLDUxODAwNjgyLDEwNzI3OTc5MDksLTIwNDIwMTQ2OTUsLT
+EyMjMwMTMyODcsLTEzMzk1MzYzMzQsLTU2NTM0MjYwNywzNDY4
+ODQ2NzVdfQ==
 -->
