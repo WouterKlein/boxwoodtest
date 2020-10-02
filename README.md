@@ -10,7 +10,7 @@
 <param title="Boxwood blight" eid="Q4952010">
 <param title="Cylindrocladium buxicola" eid="Q3008672">
 <param title="fungus" eid="Q764">
-<param title="spores" eid="Q177332">
+<param title="spore" eid="Q177332" aliases="spores">
 <param title="Boxwood" eid="Q158703">
 <param title="shrubs" eid="Q42295">
 <param title="common boxwood" eid="Q27344">
@@ -149,11 +149,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM1NDY4MDEsMjA1ODk0OTM3NCwtMj
-AxMTY0MTk1NCwxNzA2MjUxNjc1LC0xMDk5OTMzMzk0LC0xNjk4
-NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUyOTg4LDM5ODE2MTU3NS
-wtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMzMwMTI3ODI2LC0yMTEw
-MjMyNTMsMzg4NzAzNzIyLDUxODAwNjgyLDEwNzI3OTc5MDksLT
-IwNDIwMTQ2OTUsLTEyMjMwMTMyODcsLTEzMzk1MzYzMzQsLTU2
-NTM0MjYwN119
+eyJoaXN0b3J5IjpbLTIwNTc2NDE4ODksLTExMjM1NDY4MDEsMj
+A1ODk0OTM3NCwtMjAxMTY0MTk1NCwxNzA2MjUxNjc1LC0xMDk5
+OTMzMzk0LC0xNjk4NDg0MDU0LDE2MzU2OTc5NzMsODY4ODUyOT
+g4LDM5ODE2MTU3NSwtMjExNTM3MTU4OCw3ODkxMTQ4MSwxMzMw
+MTI3ODI2LC0yMTEwMjMyNTMsMzg4NzAzNzIyLDUxODAwNjgyLD
+EwNzI3OTc5MDksLTIwNDIwMTQ2OTUsLTEyMjMwMTMyODcsLTEz
+Mzk1MzYzMzRdfQ==
 -->
