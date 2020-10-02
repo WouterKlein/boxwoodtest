@@ -105,6 +105,8 @@ Its potential medicinal applications met with a similar lack of enthusiasm. Desp
 	url="https://ia801309.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125012606931&itemPath=%2F6%2Fitems%2Fgri_33125012606931&server=ia801309.us.archive.org&page=n620_w1136"
 	region="-69,625,501,376">
 
+### A crafty kind of wood
+
 If Mattioli and Parkinson considered boxwood primarily an ornamental plant “well adapted to weaving espaliers in gardens and dividing one space from another,”[^17] its slow growth rate had important industrial implications. Hardened through the process of gradual maturation, its timber acquired such valued qualities as durability and density, making it indeed similar to guaiacum.[^18] Boxwood, according to Soderini, could last “forever” and “was good for the printing industry and other fine woodwork.”[^19] Since it lent itself well to lathing, Gerard considered it particularly suitable for “dagger hafts, boxes, and suchlike uses.”[^20] Sixteenth-century Netherlandish rosary beads—true miracles of late Gothic craftsmanship—testify to these remarkable properties. These exquisite boxwood carvings, which often measure less than two inches in diameter, could represent on a tiny scale multi-figure biblical scenes without losing any of their dramatic intensity.
 <param ve-image
 	title="Sixteenth-century Netherlandish rosary bead (exterior)"
@@ -169,11 +171,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTQ4MTc0MSwtOTU3MjE3NTU5LC0xOT
-E4NjM2NDg3LDk1ODgwOTQwMCwtMjA1NTYzNDI3OSwxMjc5Nzcx
-NjExLC01NTQ4NjE5MzEsMTQyMzE4NTI3OCwzNDA1NDI4MjgsLT
-M3NzEwMDg4NCw1ODE3MDY0NzUsMTkwODczMTc5NSwtMTk4ODA3
-NTIzNiwxMzQwMTA3NDc5LDIwNjY2NjcyNDUsMTM0MDEwNzQ3OS
-wtMjA1NzY0MTg4OSwtMTEyMzU0NjgwMSwyMDU4OTQ5Mzc0LC0y
-MDExNjQxOTU0XX0=
+eyJoaXN0b3J5IjpbLTE5NzI2ODg3NDgsLTk1NzIxNzU1OSwtMT
+kxODYzNjQ4Nyw5NTg4MDk0MDAsLTIwNTU2MzQyNzksMTI3OTc3
+MTYxMSwtNTU0ODYxOTMxLDE0MjMxODUyNzgsMzQwNTQyODI4LC
+0zNzcxMDA4ODQsNTgxNzA2NDc1LDE5MDg3MzE3OTUsLTE5ODgw
+NzUyMzYsMTM0MDEwNzQ3OSwyMDY2NjY3MjQ1LDEzNDAxMDc0Nz
+ksLTIwNTc2NDE4ODksLTExMjM1NDY4MDEsMjA1ODk0OTM3NCwt
+MjAxMTY0MTk1NF19
 -->
