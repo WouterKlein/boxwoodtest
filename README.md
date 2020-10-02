@@ -86,13 +86,13 @@
 	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.” One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
-<param ve-image
-	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
-	url="https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg">
 
 ### “A plant known to everybody”
 
 How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^4] An integral element in the Mediterranean maquis, boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
+<param ve-image
+	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	url="https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg">
 
 ### Ancient love vs. early modern dismissal
 
@@ -184,11 +184,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY0ODg2LC03MjM0ODMyNzQsODQ1ND
-EyNzk5LDEyMDU2Nzg2OTQsLTE5NzI2ODg3NDgsLTk1NzIxNzU1
-OSwtMTkxODYzNjQ4Nyw5NTg4MDk0MDAsLTIwNTU2MzQyNzksMT
-I3OTc3MTYxMSwtNTU0ODYxOTMxLDE0MjMxODUyNzgsMzQwNTQy
-ODI4LC0zNzcxMDA4ODQsNTgxNzA2NDc1LDE5MDg3MzE3OTUsLT
-E5ODgwNzUyMzYsMTM0MDEwNzQ3OSwyMDY2NjY3MjQ1LDEzNDAx
-MDc0NzldfQ==
+eyJoaXN0b3J5IjpbMTM4NzY1ODA3OCwtMjk4NjQ4ODYsLTcyMz
+Q4MzI3NCw4NDU0MTI3OTksMTIwNTY3ODY5NCwtMTk3MjY4ODc0
+OCwtOTU3MjE3NTU5LC0xOTE4NjM2NDg3LDk1ODgwOTQwMCwtMj
+A1NTYzNDI3OSwxMjc5NzcxNjExLC01NTQ4NjE5MzEsMTQyMzE4
+NTI3OCwzNDA1NDI4MjgsLTM3NzEwMDg4NCw1ODE3MDY0NzUsMT
+kwODczMTc5NSwtMTk4ODA3NTIzNiwxMzQwMTA3NDc5LDIwNjY2
+NjcyNDVdfQ==
 -->
