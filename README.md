@@ -89,7 +89,7 @@
 	center="Q30"
 	zoom="4"
 	time-dimension="true"
-	time-interval="2011-01-01T00:00:00Z/2018-12-31T23:59:00Z">
+	time-interval="2011/2018">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 
@@ -198,11 +198,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYzNTgzODAsNTc5NDIwNDkyLDE0Mj
-MzODA0ODEsLTgyOTI1NTIzMiwxOTQ5NTgxNzg2LDE0MTEzNDYw
-OTQsMjY0Njk0NTI2LDEzMjU5NzA4MzksMjY0Njk0NTI2LDI2ND
-Y5NDUyNiwtNjk1MjY2ODksNDYzODAwNjQ1LDExMzY3MzIwNjks
-MTM4NzY1ODA3OCwtMjk4NjQ4ODYsLTcyMzQ4MzI3NCw4NDU0MT
-I3OTksMTIwNTY3ODY5NCwtMTk3MjY4ODc0OCwtOTU3MjE3NTU5
+eyJoaXN0b3J5IjpbMjA5MTIwMTU1NiwtMTUxNjM1ODM4MCw1Nz
+k0MjA0OTIsMTQyMzM4MDQ4MSwtODI5MjU1MjMyLDE5NDk1ODE3
+ODYsMTQxMTM0NjA5NCwyNjQ2OTQ1MjYsMTMyNTk3MDgzOSwyNj
+Q2OTQ1MjYsMjY0Njk0NTI2LC02OTUyNjY4OSw0NjM4MDA2NDUs
+MTEzNjczMjA2OSwxMzg3NjU4MDc4LC0yOTg2NDg4NiwtNzIzND
+gzMjc0LDg0NTQxMjc5OSwxMjA1Njc4Njk0LC0xOTcyNjg4NzQ4
 XX0=
 -->
