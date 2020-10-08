@@ -85,7 +85,9 @@
 	title="Boxwood blight"
 	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
 
-Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.” One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
+
+One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param ve-image
 	title="Box Walk at Dumbarton Oaks"
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
@@ -190,11 +192,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTM0NjA5NCwyNjQ2OTQ1MjYsMTMyNT
-k3MDgzOSwyNjQ2OTQ1MjYsMjY0Njk0NTI2LC02OTUyNjY4OSw0
-NjM4MDA2NDUsMTEzNjczMjA2OSwxMzg3NjU4MDc4LC0yOTg2ND
-g4NiwtNzIzNDgzMjc0LDg0NTQxMjc5OSwxMjA1Njc4Njk0LC0x
-OTcyNjg4NzQ4LC05NTcyMTc1NTksLTE5MTg2MzY0ODcsOTU4OD
-A5NDAwLC0yMDU1NjM0Mjc5LDEyNzk3NzE2MTEsLTU1NDg2MTkz
+eyJoaXN0b3J5IjpbMTk0OTU4MTc4NiwxNDExMzQ2MDk0LDI2ND
+Y5NDUyNiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNjQ2OTQ1MjYs
+LTY5NTI2Njg5LDQ2MzgwMDY0NSwxMTM2NzMyMDY5LDEzODc2NT
+gwNzgsLTI5ODY0ODg2LC03MjM0ODMyNzQsODQ1NDEyNzk5LDEy
+MDU2Nzg2OTQsLTE5NzI2ODg3NDgsLTk1NzIxNzU1OSwtMTkxOD
+YzNjQ4Nyw5NTg4MDk0MDAsLTIwNTU2MzQyNzksMTI3OTc3MTYx
 MV19
 -->
