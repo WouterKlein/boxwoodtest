@@ -81,10 +81,7 @@
 ### Boxwood under threat
 
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
-<param ve-image
-	title="Boxwood blight"
-	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
-	<param ve-map
+param ve-map
 	title="Occurence of boxwood blight in America, 2011-2018"
 	center="Q30"
 	zoom="4"
@@ -92,6 +89,9 @@
 	time-interval="2010/2018"
 	date-format=YYYY
 	auto-play="true">
+<param ve-image
+	title="Boxwood blight"
+	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
 <var data-map
 	title="Occurence of boxwood blight in America, 2011-2018"
 	data-center="Q30"
@@ -210,11 +210,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYyNTk1NjgsLTEwNDc5Nzg4MjksMj
-A5MTIwMTU1NiwtMTUxNjM1ODM4MCw1Nzk0MjA0OTIsMTQyMzM4
-MDQ4MSwtODI5MjU1MjMyLDE5NDk1ODE3ODYsMTQxMTM0NjA5NC
-wyNjQ2OTQ1MjYsMTMyNTk3MDgzOSwyNjQ2OTQ1MjYsMjY0Njk0
-NTI2LC02OTUyNjY4OSw0NjM4MDA2NDUsMTEzNjczMjA2OSwxMz
-g3NjU4MDc4LC0yOTg2NDg4NiwtNzIzNDgzMjc0LDg0NTQxMjc5
-OV19
+eyJoaXN0b3J5IjpbLTM0NTA4MTY3NiwtMTA0Nzk3ODgyOSwyMD
+kxMjAxNTU2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIzMzgw
+NDgxLC04MjkyNTUyMzIsMTk0OTU4MTc4NiwxNDExMzQ2MDk0LD
+I2NDY5NDUyNiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNjQ2OTQ1
+MjYsLTY5NTI2Njg5LDQ2MzgwMDY0NSwxMTM2NzMyMDY5LDEzOD
+c2NTgwNzgsLTI5ODY0ODg2LC03MjM0ODMyNzQsODQ1NDEyNzk5
+XX0=
 -->
