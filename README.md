@@ -81,7 +81,7 @@
 ### Boxwood under threat
 
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
-<var data-map
+<param ve-map
 	data-basemap="Esri_WorldPhysical"
 	title="Occurence of boxwood blight in America, 2011-2018"
 	data-center="39.812733, -97.042653"
@@ -212,11 +212,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MTAyMjEzLC0xMTQ2Mjc2MjUyLC0zOD
-Q1OTQyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgy
-OSwyMDkxMjAxNTU2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxND
-IzMzgwNDgxLC04MjkyNTUyMzIsMTk0OTU4MTc4NiwxNDExMzQ2
-MDk0LDI2NDY5NDUyNiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNj
-Q2OTQ1MjYsLTY5NTI2Njg5LDQ2MzgwMDY0NSwxMTM2NzMyMDY5
-XX0=
+eyJoaXN0b3J5IjpbLTExNDYyNzYyNTIsLTExNDYyNzYyNTIsLT
+M4NDU5NDI1NCwzMjc2Nzg2MDQsMTMyNjUyNzkxLC0xMDQ3OTc4
+ODI5LDIwOTEyMDE1NTYsLTE1MTYzNTgzODAsNTc5NDIwNDkyLD
+E0MjMzODA0ODEsLTgyOTI1NTIzMiwxOTQ5NTgxNzg2LDE0MTEz
+NDYwOTQsMjY0Njk0NTI2LDEzMjU5NzA4MzksMjY0Njk0NTI2LD
+I2NDY5NDUyNiwtNjk1MjY2ODksNDYzODAwNjQ1LDExMzY3MzIw
+NjldfQ==
 -->
