@@ -82,7 +82,6 @@
 
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
 <param ve-map
-	data-basemap="Esri_WorldTopographic"
 	title="Occurence of boxwood blight in America, 2011-2018"
 	data-center="39.812733, -97.042653"
 	zoom="4"
@@ -210,11 +209,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTIyMjEzMSwtMTE0NjI3NjI1MiwtMT
-E0NjI3NjI1MiwtMzg0NTk0MjU0LDMyNzY3ODYwNCwxMzI2NTI3
-OTEsLTEwNDc5Nzg4MjksMjA5MTIwMTU1NiwtMTUxNjM1ODM4MC
-w1Nzk0MjA0OTIsMTQyMzM4MDQ4MSwtODI5MjU1MjMyLDE5NDk1
-ODE3ODYsMTQxMTM0NjA5NCwyNjQ2OTQ1MjYsMTMyNTk3MDgzOS
-wyNjQ2OTQ1MjYsMjY0Njk0NTI2LC02OTUyNjY4OSw0NjM4MDA2
-NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMjY3MDQ3OTgsLTExNDYyNzYyNTIsLT
+ExNDYyNzYyNTIsLTM4NDU5NDI1NCwzMjc2Nzg2MDQsMTMyNjUy
+NzkxLC0xMDQ3OTc4ODI5LDIwOTEyMDE1NTYsLTE1MTYzNTgzOD
+AsNTc5NDIwNDkyLDE0MjMzODA0ODEsLTgyOTI1NTIzMiwxOTQ5
+NTgxNzg2LDE0MTEzNDYwOTQsMjY0Njk0NTI2LDEzMjU5NzA4Mz
+ksMjY0Njk0NTI2LDI2NDY5NDUyNiwtNjk1MjY2ODksNDYzODAw
+NjQ1XX0=
 -->
