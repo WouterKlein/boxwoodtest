@@ -90,16 +90,16 @@
 	time-interval="2010/2018"
 	date-format=YYYY
 	auto-play="true">
-<param ve-image
+param ve-image
 	title="Boxwood blight"
 	url="https://upload.wikimedia.org/wikipedia/commons/6/69/Boxwood-blight-5513137.jpg">
-<var data-map
+var data-map
 	title="Occurence of boxwood blight in America, 2011-2018"
 	data-center="39.812733, -97.042653"
 	data-basemap="Esri_WorldPhysical"
 	data-zoom="4"
 	prefer-geojson></var>
-<var data-map-layer
+var data-map-layer
 	title="Occurence of boxwood blight in America, 2011-2018"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
@@ -212,11 +212,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NDk0NjI0LC0zODQ1OTQyNTQsMzI3Nj
-c4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOSwyMDkxMjAxNTU2
-LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIzMzgwNDgxLC04Mj
-kyNTUyMzIsMTk0OTU4MTc4NiwxNDExMzQ2MDk0LDI2NDY5NDUy
-NiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNjQ2OTQ1MjYsLTY5NT
-I2Njg5LDQ2MzgwMDY0NSwxMTM2NzMyMDY5LDEzODc2NTgwNzhd
-fQ==
+eyJoaXN0b3J5IjpbLTExNDYyNzYyNTIsLTM4NDU5NDI1NCwzMj
+c2Nzg2MDQsMTMyNjUyNzkxLC0xMDQ3OTc4ODI5LDIwOTEyMDE1
+NTYsLTE1MTYzNTgzODAsNTc5NDIwNDkyLDE0MjMzODA0ODEsLT
+gyOTI1NTIzMiwxOTQ5NTgxNzg2LDE0MTEzNDYwOTQsMjY0Njk0
+NTI2LDEzMjU5NzA4MzksMjY0Njk0NTI2LDI2NDY5NDUyNiwtNj
+k1MjY2ODksNDYzODAwNjQ1LDExMzY3MzIwNjksMTM4NzY1ODA3
+OF19
 -->
