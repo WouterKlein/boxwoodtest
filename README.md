@@ -108,6 +108,17 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+<var data-map
+	title="Dumbarton Oaks garden"
+	data-center="39.812733, -97.042653"
+	data-basemap="Esri_WorldPhysical"
+	data-zoom="4"
+	prefer-geojson></var>
+var data-map-layer
+	title="Occurence of boxwood blight in America, 2011-2018"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
+	data-active="true"></var>
 
 ### “A plant known to everybody”
 
@@ -209,11 +220,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTE3MjM4MiwtMTEyNjcwNDc5OCwtMT
-EyNjcwNDc5OCwtMTE0NjI3NjI1MiwtMTE0NjI3NjI1MiwtMzg0
-NTk0MjU0LDMyNzY3ODYwNCwxMzI2NTI3OTEsLTEwNDc5Nzg4Mj
-ksMjA5MTIwMTU1NiwtMTUxNjM1ODM4MCw1Nzk0MjA0OTIsMTQy
-MzM4MDQ4MSwtODI5MjU1MjMyLDE5NDk1ODE3ODYsMTQxMTM0Nj
-A5NCwyNjQ2OTQ1MjYsMTMyNTk3MDgzOSwyNjQ2OTQ1MjYsMjY0
-Njk0NTI2XX0=
+eyJoaXN0b3J5IjpbLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMT
+I2NzA0Nzk4LC0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1
+OTQyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOS
+wyMDkxMjAxNTU2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIz
+MzgwNDgxLC04MjkyNTUyMzIsMTk0OTU4MTc4NiwxNDExMzQ2MD
+k0LDI2NDY5NDUyNiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNjQ2
+OTQ1MjZdfQ==
 -->
