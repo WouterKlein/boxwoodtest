@@ -90,18 +90,6 @@
 	date-format=YYYY
 	auto-play="true">
 
-var data-map
-	title="Occurence of boxwood blight in America, 2011-2018"
-	data-center="39.812733, -97.042653"
-	data-basemap="Esri_WorldPhysical"
-	data-zoom="4"
-	prefer-geojson></var>
-var data-map-layer
-	title="Occurence of boxwood blight in America, 2011-2018"
-	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
-	data-active="true"></var>
-
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param ve-image
 	title="Box Walk at Dumbarton Oaks"
@@ -220,11 +208,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMT
-I2NzA0Nzk4LC0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1
-OTQyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOS
-wyMDkxMjAxNTU2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIz
-MzgwNDgxLC04MjkyNTUyMzIsMTk0OTU4MTc4NiwxNDExMzQ2MD
-k0LDI2NDY5NDUyNiwxMzI1OTcwODM5LDI2NDY5NDUyNiwyNjQ2
-OTQ1MjZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDE0NjQzMTIsLTg4MzMzMDg5LC0xMT
+I2NzA0Nzk4LC0xMTI2NzA0Nzk4LC0xMTQ2Mjc2MjUyLC0xMTQ2
+Mjc2MjUyLC0zODQ1OTQyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MS
+wtMTA0Nzk3ODgyOSwyMDkxMjAxNTU2LC0xNTE2MzU4MzgwLDU3
+OTQyMDQ5MiwxNDIzMzgwNDgxLC04MjkyNTUyMzIsMTk0OTU4MT
+c4NiwxNDExMzQ2MDk0LDI2NDY5NDUyNiwxMzI1OTcwODM5LDI2
+NDY5NDUyNl19
 -->
