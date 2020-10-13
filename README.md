@@ -103,11 +103,11 @@ var data-map-layer
 	data-active="true"></var>
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
-
-One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param ve-image
 	title="Box Walk at Dumbarton Oaks"
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
+
+One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 
 ### “A plant known to everybody”
 
@@ -209,11 +209,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY3MDQ3OTgsLTExMjY3MDQ3OTgsLT
-ExNDYyNzYyNTIsLTExNDYyNzYyNTIsLTM4NDU5NDI1NCwzMjc2
-Nzg2MDQsMTMyNjUyNzkxLC0xMDQ3OTc4ODI5LDIwOTEyMDE1NT
-YsLTE1MTYzNTgzODAsNTc5NDIwNDkyLDE0MjMzODA0ODEsLTgy
-OTI1NTIzMiwxOTQ5NTgxNzg2LDE0MTEzNDYwOTQsMjY0Njk0NT
-I2LDEzMjU5NzA4MzksMjY0Njk0NTI2LDI2NDY5NDUyNiwtNjk1
-MjY2ODldfQ==
+eyJoaXN0b3J5IjpbLTI4OTE3MjM4MiwtMTEyNjcwNDc5OCwtMT
+EyNjcwNDc5OCwtMTE0NjI3NjI1MiwtMTE0NjI3NjI1MiwtMzg0
+NTk0MjU0LDMyNzY3ODYwNCwxMzI2NTI3OTEsLTEwNDc5Nzg4Mj
+ksMjA5MTIwMTU1NiwtMTUxNjM1ODM4MCw1Nzk0MjA0OTIsMTQy
+MzM4MDQ4MSwtODI5MjU1MjMyLDE5NDk1ODE3ODYsMTQxMTM0Nj
+A5NCwyNjQ2OTQ1MjYsMTMyNTk3MDgzOSwyNjQ2OTQ1MjYsMjY0
+Njk0NTI2XX0=
 -->
