@@ -98,8 +98,8 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <var data-map
 	title="Dumbarton Oaks garden"
-	data-center="39.812733, -97.042653"
-	data-zoom="10"
+	data-center="Q1264942"
+	data-zoom="15"
 	prefer-geojson></var>
 
 ### “A plant known to everybody”
@@ -202,7 +202,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjAwMTU1OSwtMjA1MTQ0NTM4NSwtMj
+eyJoaXN0b3J5IjpbMTE2MTY4MzkzOCwtMjA1MTQ0NTM4NSwtMj
 E0MTQ2NDMxMiwtODgzMzMwODksLTExMjY3MDQ3OTgsLTExMjY3
 MDQ3OTgsLTExNDYyNzYyNTIsLTExNDYyNzYyNTIsLTM4NDU5ND
 I1NCwzMjc2Nzg2MDQsMTMyNjUyNzkxLC0xMDQ3OTc4ODI5LDIw
