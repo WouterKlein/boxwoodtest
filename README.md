@@ -25,19 +25,6 @@
 <param title="apoplexy" eid="Q8264724">
 <param title="rosary" eid="Q132539">
 <param title="Gothic art" eid="Q46825" aliases="Gothic craftsmanship">
-<param title="embroidery" eid="Q18281">
-<param title="lavender" eid="Q171892">
-<param title="juniper" eid="Q26325">
-<param title="marjoram" eid="Q22694">
-<param title="thyme" eid="Q3215980">
-<param title="hyssop" eid="Q137931">
-<param title="pennyroyal" eid="Q161235">
-<param title="sage" eid="Q1111359">
-<param title="chamomile" eid="Q14169150">
-<param title="mint" eid="Q47859">
-<param title="Viola" eid="Q146095" aliases="violets">
-<param title="Leucanthemum" eid="Q21040" aliases="marguerites">
-<param title="basil" eid="Q38859">
 <param title="Olivier de Serres" eid="Q597422">
 <param title="Claude Mollet" eid="Q919880">
 <param title="astrology" eid="Q34362">
@@ -189,7 +176,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjMwNzE0NSwxMTYyMDkxNjMsODU3OD
+eyJoaXN0b3J5IjpbLTYyNjAwMDk4MCwxMTYyMDkxNjMsODU3OD
 Y4MzE5LC03MzUwNDY3NTIsLTIwNTE0NDUzODUsLTIxNDE0NjQz
 MTIsLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMTI2NzA0Nzk4LC
 0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1OTQyNTQsMzI3
