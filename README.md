@@ -8,18 +8,13 @@
 	num-primary-sources="0"
 	author="Anatole Tchikine">
 <param title="Boxwood blight" eid="Q4952010">
-<param title="Cylindrocladium buxicola" eid="Q3008672">
 <param title="fungus" eid="Q764">
 <param title="spore" eid="Q177332" aliases="spores">
 <param title="Buxus" eid="Q158703" aliases-"Boxwood">
 <param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
 <param title="Dumbarton Oaks" eid="Q1264942">
-<param title="hornbeam" eid="Q59779148">
-<param title="Taxus" eid="Q27355" aliases="yew">
-<param title="Ilex" eid="Q117085" aliases= "holly">
 <param title="Maquis shrubland" eid="Q667552" aliases= "maquis">
 <param title="Pliny the Younger" eid="Q168707" aliases="Pliny">
-<param title="topiary park" eid="Q57502475" aliases="topiary work">
 <param title="pruning" eid="Q500094">
 <param title="Myrtus communis L." eid="Q6122027" aliases="myrtle">
 <param title="viburnum (Viburnum tinus)" eid="Q1321268">
@@ -202,11 +197,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjA5MTYzLDg1Nzg2ODMxOSwtNzM1MD
-Q2NzUyLC0yMDUxNDQ1Mzg1LC0yMTQxNDY0MzEyLC04ODMzMzA4
-OSwtMTEyNjcwNDc5OCwtMTEyNjcwNDc5OCwtMTE0NjI3NjI1Mi
-wtMTE0NjI3NjI1MiwtMzg0NTk0MjU0LDMyNzY3ODYwNCwxMzI2
-NTI3OTEsLTEwNDc5Nzg4MjksMjA5MTIwMTU1NiwtMTUxNjM1OD
-M4MCw1Nzk0MjA0OTIsMTQyMzM4MDQ4MSwtODI5MjU1MjMyLDE5
-NDk1ODE3ODZdfQ==
+eyJoaXN0b3J5IjpbLTIwODk2ODc0MiwxMTYyMDkxNjMsODU3OD
+Y4MzE5LC03MzUwNDY3NTIsLTIwNTE0NDUzODUsLTIxNDE0NjQz
+MTIsLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMTI2NzA0Nzk4LC
+0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1OTQyNTQsMzI3
+Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOSwyMDkxMjAxNT
+U2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIzMzgwNDgxLC04
+MjkyNTUyMzJdfQ==
 -->
