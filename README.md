@@ -91,10 +91,6 @@ The real issue with boxwood was what sixteenth-century English physician John Ge
 <param ve-image
 	title="Boxwood in Gerard's herbal (page 1)"
 	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648">
-<param ve-image
-	title="Boxwood in Gerard's herbal (page 2)"
-	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1251_w648"
-	region="69,15,935,702">
 
 Its potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); while Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
@@ -176,11 +172,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDQ2OTUyNCwxMTYyMDkxNjMsODU3OD
-Y4MzE5LC03MzUwNDY3NTIsLTIwNTE0NDUzODUsLTIxNDE0NjQz
-MTIsLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMTI2NzA0Nzk4LC
-0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1OTQyNTQsMzI3
-Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOSwyMDkxMjAxNT
-U2LC0xNTE2MzU4MzgwLDU3OTQyMDQ5MiwxNDIzMzgwNDgxLC04
-MjkyNTUyMzJdfQ==
+eyJoaXN0b3J5IjpbMjAxNDQyMjU0MiwxOTM0NDY5NTI0LDExNj
+IwOTE2Myw4NTc4NjgzMTksLTczNTA0Njc1MiwtMjA1MTQ0NTM4
+NSwtMjE0MTQ2NDMxMiwtODgzMzMwODksLTExMjY3MDQ3OTgsLT
+ExMjY3MDQ3OTgsLTExNDYyNzYyNTIsLTExNDYyNzYyNTIsLTM4
+NDU5NDI1NCwzMjc2Nzg2MDQsMTMyNjUyNzkxLC0xMDQ3OTc4OD
+I5LDIwOTEyMDE1NTYsLTE1MTYzNTgzODAsNTc5NDIwNDkyLDE0
+MjMzODA0ODFdfQ==
 -->
