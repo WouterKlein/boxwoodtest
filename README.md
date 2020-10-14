@@ -16,18 +16,8 @@
 <param title="Maquis shrubland" eid="Q667552" aliases= "maquis">
 <param title="Pliny the Younger" eid="Q168707" aliases="Pliny">
 <param title="pruning" eid="Q500094">
-<param title="Myrtus communis L." eid="Q6122027" aliases="myrtle">
-<param title="viburnum (Viburnum tinus)" eid="Q1321268">
-<param title="Laurus nobilis" eid="Q26006" aliases="laurel">
-<param title="espalier" eid="Q1754876" aliases="espaliers">
-<param title="hedge" eid="Q235779" aliases="hedges">
-<param title="Giovan Vettorio Soderini" eid="Q1102344">
-<param title="cypress" eid="Q146911">
 <param title="John Gerard" eid="Q1333338">
-<param title="Mastic tree" eid="Q16875777" aliases="mastic">
-<param title="rosemary" eid="Q122679">
 <param title="Amato Lusitano" eid="Q455777">
-<param title="guaiacum" eid="Q1429385">
 <param title="syphilis" eid="Q41083">
 <param title="Pietro Andrea Mattioli" eid="Q457191">
 <param title="John Parkinson" eid="Q37393560">
@@ -107,6 +97,8 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 ### Ancient love vs. early modern dismissal
 
 Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,”[^8] which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^9] Yet, along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^10]
+<param title="espalier" eid="Q1754876" aliases="espaliers">
+<param title="hedge" eid="Q235779" aliases="hedges">
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^11] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^12] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_.[^13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^14]
 <param ve-image
@@ -197,7 +189,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk2ODc0MiwxMTYyMDkxNjMsODU3OD
+eyJoaXN0b3J5IjpbLTM0MjMwNzE0NSwxMTYyMDkxNjMsODU3OD
 Y4MzE5LC03MzUwNDY3NTIsLTIwNTE0NDUzODUsLTIxNDE0NjQz
 MTIsLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMTI2NzA0Nzk4LC
 0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1OTQyNTQsMzI3
