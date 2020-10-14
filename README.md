@@ -59,7 +59,8 @@
 	time-dimension="true"
 	time-interval="2010/2018"
 	date-format=YYYY
-	auto-play="true">
+	auto-play="true"
+	geoshape="Data:Arizona.map">
 
 Boxwood, with which this disease is associated, is a genus of evergreen shrubs that enjoy great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens ‘Suffruticosa’_) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of 126 million dollars in 2014.[^2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="shrub" eid="Q42295" aliases="shrubs">
@@ -178,11 +179,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDY5OTkzNSwtMjAwMTI0NDIwMCwyMD
-E0NDIyNTQyLDE5MzQ0Njk1MjQsMTE2MjA5MTYzLDg1Nzg2ODMx
-OSwtNzM1MDQ2NzUyLC0yMDUxNDQ1Mzg1LC0yMTQxNDY0MzEyLC
-04ODMzMzA4OSwtMTEyNjcwNDc5OCwtMTEyNjcwNDc5OCwtMTE0
-NjI3NjI1MiwtMTE0NjI3NjI1MiwtMzg0NTk0MjU0LDMyNzY3OD
-YwNCwxMzI2NTI3OTEsLTEwNDc5Nzg4MjksMjA5MTIwMTU1Niwt
-MTUxNjM1ODM4MF19
+eyJoaXN0b3J5IjpbMjEwMjkwNDY1MiwxODA0Njk5OTM1LC0yMD
+AxMjQ0MjAwLDIwMTQ0MjI1NDIsMTkzNDQ2OTUyNCwxMTYyMDkx
+NjMsODU3ODY4MzE5LC03MzUwNDY3NTIsLTIwNTE0NDUzODUsLT
+IxNDE0NjQzMTIsLTg4MzMzMDg5LC0xMTI2NzA0Nzk4LC0xMTI2
+NzA0Nzk4LC0xMTQ2Mjc2MjUyLC0xMTQ2Mjc2MjUyLC0zODQ1OT
+QyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MSwtMTA0Nzk3ODgyOSwy
+MDkxMjAxNTU2XX0=
 -->
