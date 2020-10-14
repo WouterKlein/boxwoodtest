@@ -48,6 +48,7 @@
 <param title="Fiesole" eid="Q82670">
 <param title="Geoffrey Jellicoe" eid="Q1502930">
 <param title="Italian Renaissance garden" eid="Q3244939">
+<param title="Arizona" eid="Q816">
 
 ### Boxwood under threat
 
@@ -180,7 +181,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUzODAyNTIsMTgwNDY5OTkzNSwtMj
+eyJoaXN0b3J5IjpbLTExNTQyMzQzNTcsMTgwNDY5OTkzNSwtMj
 AwMTI0NDIwMCwyMDE0NDIyNTQyLDE5MzQ0Njk1MjQsMTE2MjA5
 MTYzLDg1Nzg2ODMxOSwtNzM1MDQ2NzUyLC0yMDUxNDQ1Mzg1LC
 0yMTQxNDY0MzEyLC04ODMzMzA4OSwtMTEyNjcwNDc5OCwtMTEy
