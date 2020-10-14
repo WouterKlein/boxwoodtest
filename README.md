@@ -54,6 +54,7 @@
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
 <param ve-map
 	title="Occurence of boxwood blight in America, 2010-2018"
+	prefer-geojson
 	data-center="39.812733, -97.042653"
 	zoom="4"
 	time-dimension="true"
@@ -179,11 +180,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMTkyMDkxLC0yMDM0MzIyMzM2LDE4MD
-Q2OTk5MzUsLTIwMDEyNDQyMDAsMjAxNDQyMjU0MiwxOTM0NDY5
-NTI0LDExNjIwOTE2Myw4NTc4NjgzMTksLTczNTA0Njc1MiwtMj
-A1MTQ0NTM4NSwtMjE0MTQ2NDMxMiwtODgzMzMwODksLTExMjY3
-MDQ3OTgsLTExMjY3MDQ3OTgsLTExNDYyNzYyNTIsLTExNDYyNz
-YyNTIsLTM4NDU5NDI1NCwzMjc2Nzg2MDQsMTMyNjUyNzkxLC0x
-MDQ3OTc4ODI5XX0=
+eyJoaXN0b3J5IjpbLTM0NDkyNDEwNywtMjAzNDMyMjMzNiwxOD
+A0Njk5OTM1LC0yMDAxMjQ0MjAwLDIwMTQ0MjI1NDIsMTkzNDQ2
+OTUyNCwxMTYyMDkxNjMsODU3ODY4MzE5LC03MzUwNDY3NTIsLT
+IwNTE0NDUzODUsLTIxNDE0NjQzMTIsLTg4MzMzMDg5LC0xMTI2
+NzA0Nzk4LC0xMTI2NzA0Nzk4LC0xMTQ2Mjc2MjUyLC0xMTQ2Mj
+c2MjUyLC0zODQ1OTQyNTQsMzI3Njc4NjA0LDEzMjY1Mjc5MSwt
+MTA0Nzk3ODgyOV19
 -->
