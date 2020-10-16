@@ -89,14 +89,17 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 ### Ancient love vs. early modern dismissal
 
 Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,”[^8] which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^9] Yet, along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^10]
-<param ve-entity
-	eid="Q1754876"
-	title="espalier"
-	aliases="espaliers">
-<param ve-entity
-	eid="Q235779"
-	title="hedge"
-	aliases="hedges">
+<param title="espalier"	eid="Q1754876" aliases="espaliers">
+<param title="hedge" eid="Q235779" aliases="hedges">
+<param ve-image
+	title="Boxwood patterns Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	url="https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg">
+	<param ve-image
+	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	url="https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg">
+	<param ve-image
+	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	url="https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg">
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^11] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^12] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_.[^13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^14]
 <param ve-image
@@ -183,11 +186,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjI4NjMyMiwtNDIyMjg2MzIyLDEwNz
-QxNzM1OTYsLTQyMjI4NjMyMiwtOTE1NTAzNjUyLDE4NjcxNzg5
-MDgsLTQ0MTI5MzIyMSwxNTExNDk0MDI0LDExODk1MTcwNjIsLT
-ExNDAwMjAwNzgsOTYyOTY1Njg5LC0xNjE3MDM3OTkxLC0yMDM0
-MzIyMzM2LDE4MDQ2OTk5MzUsLTIwMDEyNDQyMDAsMjAxNDQyMj
-U0MiwxOTM0NDY5NTI0LDExNjIwOTE2Myw4NTc4NjgzMTksLTcz
-NTA0Njc1Ml19
+eyJoaXN0b3J5IjpbNDk1NDM1NjYwLC00MjIyODYzMjIsLTQyMj
+I4NjMyMiwxMDc0MTczNTk2LC00MjIyODYzMjIsLTkxNTUwMzY1
+MiwxODY3MTc4OTA4LC00NDEyOTMyMjEsMTUxMTQ5NDAyNCwxMT
+g5NTE3MDYyLC0xMTQwMDIwMDc4LDk2Mjk2NTY4OSwtMTYxNzAz
+Nzk5MSwtMjAzNDMyMjMzNiwxODA0Njk5OTM1LC0yMDAxMjQ0Mj
+AwLDIwMTQ0MjI1NDIsMTkzNDQ2OTUyNCwxMTYyMDkxNjMsODU3
+ODY4MzE5XX0=
 -->
