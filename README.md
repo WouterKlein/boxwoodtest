@@ -69,6 +69,7 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+<param title="Box Walk" eid="Q42295">
 <param ve-map
 	title="Dumbarton Oaks garden"
 	data-center="Q1264942"
@@ -180,11 +181,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDk1NjE0MCw5NjI5NjU2ODksLTE2MT
-cwMzc5OTEsLTIwMzQzMjIzMzYsMTgwNDY5OTkzNSwtMjAwMTI0
-NDIwMCwyMDE0NDIyNTQyLDE5MzQ0Njk1MjQsMTE2MjA5MTYzLD
-g1Nzg2ODMxOSwtNzM1MDQ2NzUyLC0yMDUxNDQ1Mzg1LC0yMTQx
-NDY0MzEyLC04ODMzMzA4OSwtMTEyNjcwNDc5OCwtMTEyNjcwND
-c5OCwtMTE0NjI3NjI1MiwtMTE0NjI3NjI1MiwtMzg0NTk0MjU0
-LDMyNzY3ODYwNF19
+eyJoaXN0b3J5IjpbLTE4MzM1MDc2NjgsOTYyOTY1Njg5LC0xNj
+E3MDM3OTkxLC0yMDM0MzIyMzM2LDE4MDQ2OTk5MzUsLTIwMDEy
+NDQyMDAsMjAxNDQyMjU0MiwxOTM0NDY5NTI0LDExNjIwOTE2My
+w4NTc4NjgzMTksLTczNTA0Njc1MiwtMjA1MTQ0NTM4NSwtMjE0
+MTQ2NDMxMiwtODgzMzMwODksLTExMjY3MDQ3OTgsLTExMjY3MD
+Q3OTgsLTExNDYyNzYyNTIsLTExNDYyNzYyNTIsLTM4NDU5NDI1
+NCwzMjc2Nzg2MDRdfQ==
 -->
