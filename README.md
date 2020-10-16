@@ -92,7 +92,7 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 <param title="espalier"	eid="Q1754876" aliases="espaliers">
 <param title="hedge" eid="Q235779" aliases="hedges">
 <param ve-image
-	title="Boxwood pattern at Middachten Castle in the Netherlands."
+	title="Boxwood pattern at Middachten Castle in the Netherlands"
 	url="https://commons.wikimedia.org/wiki/File:Entrance_of_Castle_Middachten_with_nice_Buxus_garden_-_panoramio.jpg">
 	<param ve-image
 	title="Boxwood pattern at Vrtba Garden in Prague"
@@ -186,11 +186,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzc1NTY1OSwtNDIyMjg2MzIyLC00Mj
-IyODYzMjIsMTA3NDE3MzU5NiwtNDIyMjg2MzIyLC05MTU1MDM2
-NTIsMTg2NzE3ODkwOCwtNDQxMjkzMjIxLDE1MTE0OTQwMjQsMT
-E4OTUxNzA2MiwtMTE0MDAyMDA3OCw5NjI5NjU2ODksLTE2MTcw
-Mzc5OTEsLTIwMzQzMjIzMzYsMTgwNDY5OTkzNSwtMjAwMTI0ND
-IwMCwyMDE0NDIyNTQyLDE5MzQ0Njk1MjQsMTE2MjA5MTYzLDg1
-Nzg2ODMxOV19
+eyJoaXN0b3J5IjpbLTIzMjExODg5OSwtMzc3NzU1NjU5LC00Mj
+IyODYzMjIsLTQyMjI4NjMyMiwxMDc0MTczNTk2LC00MjIyODYz
+MjIsLTkxNTUwMzY1MiwxODY3MTc4OTA4LC00NDEyOTMyMjEsMT
+UxMTQ5NDAyNCwxMTg5NTE3MDYyLC0xMTQwMDIwMDc4LDk2Mjk2
+NTY4OSwtMTYxNzAzNzk5MSwtMjAzNDMyMjMzNiwxODA0Njk5OT
+M1LC0yMDAxMjQ0MjAwLDIwMTQ0MjI1NDIsMTkzNDQ2OTUyNCwx
+MTYyMDkxNjNdfQ==
 -->
