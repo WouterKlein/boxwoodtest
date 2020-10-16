@@ -12,7 +12,6 @@
 <param title="spore" eid="Q177332" aliases="spores">
 <param title="Buxus" eid="Q158703" aliases-"Boxwood">
 <param title="Buxus sempervirens" eid="Q27344" aliases="common boxwood">
-<param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Maquis shrubland" eid="Q667552" aliases= "maquis">
 <param title="Pliny the Younger" eid="Q168707" aliases="Pliny">
 <param title="pruning" eid="Q500094">
@@ -69,6 +68,7 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace, and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+<param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Box Walk">
 <param title="Box Terrace">
 <param title="Box Ellipse">
@@ -183,11 +183,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTUwMzY1MiwxODY3MTc4OTA4LC00ND
-EyOTMyMjEsMTUxMTQ5NDAyNCwxMTg5NTE3MDYyLC0xMTQwMDIw
-MDc4LDk2Mjk2NTY4OSwtMTYxNzAzNzk5MSwtMjAzNDMyMjMzNi
-wxODA0Njk5OTM1LC0yMDAxMjQ0MjAwLDIwMTQ0MjI1NDIsMTkz
-NDQ2OTUyNCwxMTYyMDkxNjMsODU3ODY4MzE5LC03MzUwNDY3NT
-IsLTIwNTE0NDUzODUsLTIxNDE0NjQzMTIsLTg4MzMzMDg5LC0x
-MTI2NzA0Nzk4XX0=
+eyJoaXN0b3J5IjpbLTQyMjI4NjMyMiwtOTE1NTAzNjUyLDE4Nj
+cxNzg5MDgsLTQ0MTI5MzIyMSwxNTExNDk0MDI0LDExODk1MTcw
+NjIsLTExNDAwMjAwNzgsOTYyOTY1Njg5LC0xNjE3MDM3OTkxLC
+0yMDM0MzIyMzM2LDE4MDQ2OTk5MzUsLTIwMDEyNDQyMDAsMjAx
+NDQyMjU0MiwxOTM0NDY5NTI0LDExNjIwOTE2Myw4NTc4NjgzMT
+ksLTczNTA0Njc1MiwtMjA1MTQ0NTM4NSwtMjE0MTQ2NDMxMiwt
+ODgzMzMwODldfQ==
 -->
