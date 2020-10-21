@@ -89,7 +89,12 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 <param ve-map
 	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
 	center="47.192704, 23.108475"
-	zoom="4">
+	zoom="4"
+	marker-type="circle"  
+	radius="4"  
+	stroke-width="0"  
+	fill="blue"  
+	fill-opacity="1">
 <param ve-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_plg.json"
@@ -97,12 +102,7 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 <param ve-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_pnt.json"
-	data-active="true"
-	marker-type="circle"  
-	radius="4"  
-	stroke-width="0"  
-	fill="blue"  
-	fill-opacity="1">
+	data-active="true">
 
 ### Ancient love vs. early modern dismissal
 
@@ -204,11 +204,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjg1MTE2OSwxOTI5NjkxOTE3LC0yMD
-c2MzExNjY0LDI5MTUyMDczOSwzNjAyMDg0ODIsMTYxNjc3NTM1
-MCwxNDAxNTE0MjcyLC02ODAzMTAzMzYsMTA2Mzc2NzIzMSwxOT
-Y4NTMzMjkyLDYxMDA4NTE4MSwtMTI2NDYzNjEzMCwxODIwNjEy
-NjMwLC00NDg3OTIzMTksMTIxMjQ4MTAxOSwzNTY5ODAzNzYsMT
-M3NzM4NDM3NywtMzc3NzU1NjU5LC00MjIyODYzMjIsLTQyMjI4
+eyJoaXN0b3J5IjpbLTU3NTQ3NDQ3MywyMDMyODUxMTY5LDE5Mj
+k2OTE5MTcsLTIwNzYzMTE2NjQsMjkxNTIwNzM5LDM2MDIwODQ4
+MiwxNjE2Nzc1MzUwLDE0MDE1MTQyNzIsLTY4MDMxMDMzNiwxMD
+YzNzY3MjMxLDE5Njg1MzMyOTIsNjEwMDg1MTgxLC0xMjY0NjM2
+MTMwLDE4MjA2MTI2MzAsLTQ0ODc5MjMxOSwxMjEyNDgxMDE5LD
+M1Njk4MDM3NiwxMzc3Mzg0Mzc3LC0zNzc3NTU2NTksLTQyMjI4
 NjMyMl19
 -->
