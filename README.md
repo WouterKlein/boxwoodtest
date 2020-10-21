@@ -70,7 +70,8 @@ Boxwood, with which this disease is associated, is a genus of evergreen shrubs t
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image
 	title="Box Walk at Dumbarton Oaks"
-	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image">
+	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image"
+	region="154,53,900,667">
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param title="Dumbarton Oaks" eid="Q1264942">
@@ -213,11 +214,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDI5MTA3Nyw3NDMzNDQ5MDgsMTQ4OD
-QwMDU4OCwtMTQzNDgzMzcwNywtMTQzNDgzMzcwNyw0NDE0MzI1
-MTUsLTE0MzQ4MzM3MDcsLTE5MTk2OTAwMTcsMTMyNDM3Nzc5Ny
-wyMDMyODUxMTY5LDE5Mjk2OTE5MTcsLTIwNzYzMTE2NjQsMjkx
-NTIwNzM5LDM2MDIwODQ4MiwxNjE2Nzc1MzUwLDE0MDE1MTQyNz
-IsLTY4MDMxMDMzNiwxMDYzNzY3MjMxLDE5Njg1MzMyOTIsNjEw
-MDg1MTgxXX0=
+eyJoaXN0b3J5IjpbLTEzMjAwODcxNTQsLTUwMDI5MTA3Nyw3ND
+MzNDQ5MDgsMTQ4ODQwMDU4OCwtMTQzNDgzMzcwNywtMTQzNDgz
+MzcwNyw0NDE0MzI1MTUsLTE0MzQ4MzM3MDcsLTE5MTk2OTAwMT
+csMTMyNDM3Nzc5NywyMDMyODUxMTY5LDE5Mjk2OTE5MTcsLTIw
+NzYzMTE2NjQsMjkxNTIwNzM5LDM2MDIwODQ4MiwxNjE2Nzc1Mz
+UwLDE0MDE1MTQyNzIsLTY4MDMxMDMzNiwxMDYzNzY3MjMxLDE5
+Njg1MzMyOTJdfQ==
 -->
