@@ -171,6 +171,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing"
 	url="https://github.com/WouterKlein/boxwoodtest/tree/master/images/Old Summer Palace_Beijing_British Museum.jpg">
+https://github.com/WouterKlein/boxwoodtest/tree/master/images/Old Summer Palace_Beijing_British Museum.jpg
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
@@ -217,11 +218,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzM3ODMzOCwzOTYwNTczOTMsMTk4OD
-Q0MDg3OCwtMTMyMDA4NzE1NCwtNTAwMjkxMDc3LDc0MzM0NDkw
-OCwxNDg4NDAwNTg4LC0xNDM0ODMzNzA3LC0xNDM0ODMzNzA3LD
-Q0MTQzMjUxNSwtMTQzNDgzMzcwNywtMTkxOTY5MDAxNywxMzI0
-Mzc3Nzk3LDIwMzI4NTExNjksMTkyOTY5MTkxNywtMjA3NjMxMT
-Y2NCwyOTE1MjA3MzksMzYwMjA4NDgyLDE2MTY3NzUzNTAsMTQw
-MTUxNDI3Ml19
+eyJoaXN0b3J5IjpbMjA2OTE0NDc0OCwxNjc3Mzc4MzM4LDM5Nj
+A1NzM5MywxOTg4NDQwODc4LC0xMzIwMDg3MTU0LC01MDAyOTEw
+NzcsNzQzMzQ0OTA4LDE0ODg0MDA1ODgsLTE0MzQ4MzM3MDcsLT
+E0MzQ4MzM3MDcsNDQxNDMyNTE1LC0xNDM0ODMzNzA3LC0xOTE5
+NjkwMDE3LDEzMjQzNzc3OTcsMjAzMjg1MTE2OSwxOTI5NjkxOT
+E3LC0yMDc2MzExNjY0LDI5MTUyMDczOSwzNjAyMDg0ODIsMTYx
+Njc3NTM1MF19
 -->
