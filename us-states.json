@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Alabama",
-                "time": "0000"
+                "time": "2013"
             },
             "geometry": {
                 "type": "Polygon",
@@ -151,7 +151,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Alaska",
-                "time": "1819"
+                "time": ""
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4615,7 +4615,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Arizona",
-                "time": "1912"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -4757,7 +4757,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Arkansas",
-                "time": "1836"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -4919,7 +4919,7 @@
             "type": "Feature",
             "properties": {
                 "name": "California",
-                "time": "1850"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5305,7 +5305,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Colorado",
-                "time": "1876"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -5383,7 +5383,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Connecticut",
-                "time": "1788"
+                "time": "2011"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5461,7 +5461,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Delaware",
-                "time": "1787"
+                "time": "2013"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5527,7 +5527,7 @@
             "type": "Feature",
             "properties": {
                 "name": "District of Columbia",
-                "time": ""
+                "time": "2018"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5561,7 +5561,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Florida",
-                "time": "1845"
+                "time": "2015"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5887,7 +5887,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Georgia",
-                "time": "1788"
+                "time": "2013"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6105,7 +6105,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hawaii",
-                "time": "1959"
+                "time": ""
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6333,7 +6333,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Idaho",
-                "time": "1890"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -6611,7 +6611,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Illinois",
-                "time": "1818"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6893,7 +6893,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Indiana",
-                "time": "1818"
+                "time": "2017"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7091,7 +7091,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Iowa",
-                "time": "1846"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -7305,7 +7305,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kansas",
-                "time": "1861"
+                "time": "2014"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7371,7 +7371,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kentucky",
-                "time": "1792"
+                "time": "2014"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7685,7 +7685,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Louisiana",
-                "time": "1812"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -8003,7 +8003,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Maine",
-                "time": "1820"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -8281,7 +8281,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Maryland",
-                "time": "1788"
+                "time": "2013"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8557,7 +8557,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Massachusetts",
-                "time": "1788"
+                "time": "2011"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8711,7 +8711,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Michigan",
-                "time": "1837"
+                "time": "2018"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9347,7 +9347,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Minnesota",
-                "time": "1858"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -9693,7 +9693,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mississippi",
-                "time": "1817"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -9891,7 +9891,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Missouri",
-                "time": "1821"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10117,7 +10117,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Montana",
-                "time": "1889"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -10339,7 +10339,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nebraska",
-                "time": "1867"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -10469,7 +10469,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nevada",
-                "time": "1864"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -10567,7 +10567,7 @@
             "type": "Feature",
             "properties": {
                 "name": "New Hampshire",
-                "time": "1788"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10693,7 +10693,7 @@
             "type": "Feature",
             "properties": {
                 "name": "New Jersey",
-                "time": "1787"
+                "time": "2013"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10835,7 +10835,7 @@
             "type": "Feature",
             "properties": {
                 "name": "New Mexico",
-                "time": "1912"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -10917,7 +10917,7 @@
             "type": "Feature",
             "properties": {
                 "name": "New York",
-                "time": "1788"
+                "time": "2011"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11203,7 +11203,7 @@
             "type": "Feature",
             "properties": {
                 "name": "North Carolina",
-                "time": "1789"
+                "time": "2011"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11461,7 +11461,7 @@
             "type": "Feature",
             "properties": {
                 "name": "North Dakota",
-                "time": "1889"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -11539,7 +11539,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ohio",
-                "time": "1803"
+                "time": "2012"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11741,7 +11741,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oklahoma",
-                "time": "1907"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -11935,7 +11935,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Oregon",
-                "time": "1859"
+                "time": "2011"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12173,7 +12173,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Pennsylvania",
-                "time": "1787"
+                "time": "2012"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12319,7 +12319,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Rhode Island",
-                "time": "1790"
+                "time": "2011"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12399,7 +12399,7 @@
             "type": "Feature",
             "properties": {
                 "name": "South Carolina",
-                "time": "1789"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12589,7 +12589,7 @@
             "type": "Feature",
             "properties": {
                 "name": "South Dakota",
-                "time": "1889"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -12719,7 +12719,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tennessee",
-                "time": "1796"
+                "time": "2014"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12905,7 +12905,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Texas",
-                "time": "1845"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -13527,7 +13527,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Utah",
-                "time": "1896"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -13589,7 +13589,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Vermont",
-                "time": "1791"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
@@ -13715,7 +13715,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Virginia",
-                "time": "1788"
+                "time": "2011"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14059,7 +14059,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Washington",
-                "time": "1889"
+                "time": "2016"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14371,7 +14371,7 @@
             "type": "Feature",
             "properties": {
                 "name": "West Virginia",
-                "time": "1863"
+                "time": "2016"
             },
             "geometry": {
                 "type": "Polygon",
@@ -14645,7 +14645,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wisconsin",
-                "time": "1848"
+                "time": "2018"
             },
             "geometry": {
                 "type": "Polygon",
@@ -14959,7 +14959,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Wyoming",
-                "time": "1890"
+                "time": ""
             },
             "geometry": {
                 "type": "Polygon",
