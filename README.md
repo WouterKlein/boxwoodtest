@@ -88,6 +88,10 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 	zoom="4">
 <param ve-map-layer
 	data-type="geojson"
+	data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/develop/geojson/Buxus_sempervirens_plg.json"
+	data-active="true">
+<param ve-map-layer
+	data-type="geojson"
 	data-url="https://github.com/jstor-labs/plant-humanities/blob/develop/geojson/buxus_sempervirens_pnt.json"
 	data-active="true">
 
@@ -193,7 +197,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU0ODA3OTQsMTk2ODUzMzI5Miw2MT
+eyJoaXN0b3J5IjpbLTE0MTcxNTAyMzQsMTk2ODUzMzI5Miw2MT
 AwODUxODEsLTEyNjQ2MzYxMzAsMTgyMDYxMjYzMCwtNDQ4Nzky
 MzE5LDEyMTI0ODEwMTksMzU2OTgwMzc2LDEzNzczODQzNzcsLT
 M3Nzc1NTY1OSwtNDIyMjg2MzIyLC00MjIyODYzMjIsMTA3NDE3
