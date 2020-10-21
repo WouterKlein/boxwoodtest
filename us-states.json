@@ -12905,7 +12905,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Texas",
-                "time": ""
+                "time": "0000"
             },
             "geometry": {
                 "type": "Polygon",
