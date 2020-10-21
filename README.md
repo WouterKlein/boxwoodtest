@@ -95,8 +95,6 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 	data-url="https://github.com/jstor-labs/plant-humanities/blob/develop/geojson/buxus_sempervirens_pnt.json"
 	data-active="true">
 
-	https://ndownloader.figshare.com/files/20163725/preview/20163725/preview.jpg
-
 ### Ancient love vs. early modern dismissal
 
 Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,”[^8] which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^9] Yet, along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^10]
@@ -197,11 +195,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mzc2NzIzMSwxOTY4NTMzMjkyLDYxMD
-A4NTE4MSwtMTI2NDYzNjEzMCwxODIwNjEyNjMwLC00NDg3OTIz
-MTksMTIxMjQ4MTAxOSwzNTY5ODAzNzYsMTM3NzM4NDM3NywtMz
-c3NzU1NjU5LC00MjIyODYzMjIsLTQyMjI4NjMyMiwxMDc0MTcz
-NTk2LC00MjIyODYzMjIsLTkxNTUwMzY1MiwxODY3MTc4OTA4LC
-00NDEyOTMyMjEsMTUxMTQ5NDAyNCwxMTg5NTE3MDYyLC0xMTQw
-MDIwMDc4XX0=
+eyJoaXN0b3J5IjpbLTY4MDMxMDMzNiwxMDYzNzY3MjMxLDE5Nj
+g1MzMyOTIsNjEwMDg1MTgxLC0xMjY0NjM2MTMwLDE4MjA2MTI2
+MzAsLTQ0ODc5MjMxOSwxMjEyNDgxMDE5LDM1Njk4MDM3NiwxMz
+c3Mzg0Mzc3LC0zNzc3NTU2NTksLTQyMjI4NjMyMiwtNDIyMjg2
+MzIyLDEwNzQxNzM1OTYsLTQyMjI4NjMyMiwtOTE1NTAzNjUyLD
+E4NjcxNzg5MDgsLTQ0MTI5MzIyMSwxNTExNDk0MDI0LDExODk1
+MTcwNjJdfQ==
 -->
