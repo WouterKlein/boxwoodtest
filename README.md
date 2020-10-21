@@ -171,10 +171,10 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Villa_i_tatti%2C_ext.%2C_giardino_05.JPG"
-	title = "Boxwood pattern in the gardens of Villa I Tatti">
+	title="Boxwood pattern in the gardens of Villa I Tatti">
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/9/96/Bernard_Berenson_in_the_gardens_of_Villa_I_Tatti.jpg"
-	title = "Bernard Berenson in the gardens of Villa I Tatti">
+	title="Bernard Berenson in the gardens of Villa I Tatti">
 
 ### Humble yet resilient
 
@@ -213,11 +213,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODQwMDU4OCwtMTQzNDgzMzcwNywtMT
-QzNDgzMzcwNyw0NDE0MzI1MTUsLTE0MzQ4MzM3MDcsLTE5MTk2
-OTAwMTcsMTMyNDM3Nzc5NywyMDMyODUxMTY5LDE5Mjk2OTE5MT
-csLTIwNzYzMTE2NjQsMjkxNTIwNzM5LDM2MDIwODQ4MiwxNjE2
-Nzc1MzUwLDE0MDE1MTQyNzIsLTY4MDMxMDMzNiwxMDYzNzY3Mj
-MxLDE5Njg1MzMyOTIsNjEwMDg1MTgxLC0xMjY0NjM2MTMwLDE4
-MjA2MTI2MzBdfQ==
+eyJoaXN0b3J5IjpbNzQzMzQ0OTA4LDE0ODg0MDA1ODgsLTE0Mz
+Q4MzM3MDcsLTE0MzQ4MzM3MDcsNDQxNDMyNTE1LC0xNDM0ODMz
+NzA3LC0xOTE5NjkwMDE3LDEzMjQzNzc3OTcsMjAzMjg1MTE2OS
+wxOTI5NjkxOTE3LC0yMDc2MzExNjY0LDI5MTUyMDczOSwzNjAy
+MDg0ODIsMTYxNjc3NTM1MCwxNDAxNTE0MjcyLC02ODAzMTAzMz
+YsMTA2Mzc2NzIzMSwxOTY4NTMzMjkyLDYxMDA4NTE4MSwtMTI2
+NDYzNjEzMF19
 -->
