@@ -170,8 +170,7 @@ Yet, in practical terms, borders involving a combination of different shrubs as 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—with their boxwood parterres, bowers (_berceau_), and a labyrinth—created for Louis XIV by André Le Nôtre, from where they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^28]
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing"
-	url="https://jstor-labs.github.io/boxwoodtest/images/Old Summer Palace_Beijing_British Museum.jpg">
-https://github.com/WouterKlein/boxwoodtest/tree/master/images/Old Summer Palace_Beijing_British Museum.jpg
+	url="">
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
@@ -218,11 +217,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI2NzUwMzYsMTY3NzM3ODMzOCwzOT
-YwNTczOTMsMTk4ODQ0MDg3OCwtMTMyMDA4NzE1NCwtNTAwMjkx
-MDc3LDc0MzM0NDkwOCwxNDg4NDAwNTg4LC0xNDM0ODMzNzA3LC
-0xNDM0ODMzNzA3LDQ0MTQzMjUxNSwtMTQzNDgzMzcwNywtMTkx
-OTY5MDAxNywxMzI0Mzc3Nzk3LDIwMzI4NTExNjksMTkyOTY5MT
-kxNywtMjA3NjMxMTY2NCwyOTE1MjA3MzksMzYwMjA4NDgyLDE2
-MTY3NzUzNTBdfQ==
+eyJoaXN0b3J5IjpbODU1MDIyMjcwLDE2NzczNzgzMzgsMzk2MD
+U3MzkzLDE5ODg0NDA4NzgsLTEzMjAwODcxNTQsLTUwMDI5MTA3
+Nyw3NDMzNDQ5MDgsMTQ4ODQwMDU4OCwtMTQzNDgzMzcwNywtMT
+QzNDgzMzcwNyw0NDE0MzI1MTUsLTE0MzQ4MzM3MDcsLTE5MTk2
+OTAwMTcsMTMyNDM3Nzc5NywyMDMyODUxMTY5LDE5Mjk2OTE5MT
+csLTIwNzYzMTE2NjQsMjkxNTIwNzM5LDM2MDIwODQ4MiwxNjE2
+Nzc1MzUwXX0=
 -->
