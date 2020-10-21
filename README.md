@@ -80,14 +80,13 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 	prefer-geojson
 	title="Dumbarton Oaks garden"
 	data-center="38.914468, -77.062895"
-	data-zoom="17.8"
-	marker-type="">
+	data-zoom="17.8">
 <param ve-map-layer
 	mapwarper mapwarper-id="50944" active>
 <param ve-map-layer 
 	data-type="geojson"
 	data-url=""
-	data-active="true">>
+	data-active="true">
 
 ### “A plant known to everybody”
 
@@ -213,11 +212,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMzQ0OTA4LDE0ODg0MDA1ODgsLTE0Mz
-Q4MzM3MDcsLTE0MzQ4MzM3MDcsNDQxNDMyNTE1LC0xNDM0ODMz
-NzA3LC0xOTE5NjkwMDE3LDEzMjQzNzc3OTcsMjAzMjg1MTE2OS
-wxOTI5NjkxOTE3LC0yMDc2MzExNjY0LDI5MTUyMDczOSwzNjAy
-MDg0ODIsMTYxNjc3NTM1MCwxNDAxNTE0MjcyLC02ODAzMTAzMz
-YsMTA2Mzc2NzIzMSwxOTY4NTMzMjkyLDYxMDA4NTE4MSwtMTI2
-NDYzNjEzMF19
+eyJoaXN0b3J5IjpbLTMwMjYzODgyMiw3NDMzNDQ5MDgsMTQ4OD
+QwMDU4OCwtMTQzNDgzMzcwNywtMTQzNDgzMzcwNyw0NDE0MzI1
+MTUsLTE0MzQ4MzM3MDcsLTE5MTk2OTAwMTcsMTMyNDM3Nzc5Ny
+wyMDMyODUxMTY5LDE5Mjk2OTE5MTcsLTIwNzYzMTE2NjQsMjkx
+NTIwNzM5LDM2MDIwODQ4MiwxNjE2Nzc1MzUwLDE0MDE1MTQyNz
+IsLTY4MDMxMDMzNiwxMDYzNzY3MjMxLDE5Njg1MzMyOTIsNjEw
+MDg1MTgxXX0=
 -->
