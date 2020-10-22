@@ -176,22 +176,17 @@ Yet, in practical terms, borders involving a combination of different shrubs as 
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—with their boxwood parterres, bowers (_berceau_), and a labyrinth—created for Louis XIV by André Le Nôtre, from where they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^28]
 <param ve-image
-	title="Plan of the _petit parc_ in the royal gardens of Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 4."
+	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
-	seq="65"
-	region="-1613,1,6961,5157">
+	seq="219"
+	rotate="90"
+	region="861,725,1619,2185">
 <param ve-image
 	title="_Parterres de broderie_ in the gardens of the Orangerie at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 118."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="117"
 	rotate="90"
 	region="42,362,2798,3776">
-<param ve-image
-	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
-	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
-	seq="219"
-	rotate="90"
-	region="3,935,4028,2984">
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
 	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
@@ -241,11 +236,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjQwNjIyLDg1ODMzMzgyNSwxMzQ1Mj
-c1MDY5LC0yNzY5OTE5MDAsLTE2NTIxNTE3NTIsNjA5MTg5ODI3
-LC05NjQ3NjI5MzUsMTMzOTM1NzE5OSwxMzM5MzU3MTk5LDEzMz
-kzNTcxOTksLTE0MjA2MjQ3MDUsLTk2NzI5MDI3LC04MzY1MjAz
-MDcsMTQ0OTIyOTcxMiwxNzQyMzYwNzIyLC0yNzM3NTM1NTIsOD
-U1MDIyMjcwLDE2NzczNzgzMzgsMzk2MDU3MzkzLDE5ODg0NDA4
-NzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDEyNjg3NTMsODU4MzMzODI1LDEzND
+UyNzUwNjksLTI3Njk5MTkwMCwtMTY1MjE1MTc1Miw2MDkxODk4
+MjcsLTk2NDc2MjkzNSwxMzM5MzU3MTk5LDEzMzkzNTcxOTksMT
+MzOTM1NzE5OSwtMTQyMDYyNDcwNSwtOTY3MjkwMjcsLTgzNjUy
+MDMwNywxNDQ5MjI5NzEyLDE3NDIzNjA3MjIsLTI3Mzc1MzU1Mi
+w4NTUwMjIyNzAsMTY3NzM3ODMzOCwzOTYwNTczOTMsMTk4ODQ0
+MDg3OF19
 -->
