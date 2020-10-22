@@ -127,7 +127,7 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 	title="Boxwood pattern at Oldway Mansion in Devon, England"
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Oldway_Mansion_03.jpg">
 
-The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
+The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_. Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
 <param ve-image
 	title="Boxwood in Gerard's herbal"
 	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
@@ -227,8 +227,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
 [^ref11]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
 [^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
-[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
-[^ref14]: Soderini, _Opere_, III:255.
+[^ref14]: Soderini, _Opere_, III:255, 295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
 [^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
 [^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
 [^ref17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
@@ -246,11 +245,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMDYzNzEwLDE2Mjc2NzA3MzksMTA4OD
-g1NjYzNCw4MzMxNDk1NjgsMTM1NTAwMTk3Miw5Mzg1MDgxMiw1
-NDEzOTIyMzYsODU4MzMzODI1LDEzNDUyNzUwNjksLTI3Njk5MT
-kwMCwtMTY1MjE1MTc1Miw2MDkxODk4MjcsLTk2NDc2MjkzNSwx
-MzM5MzU3MTk5LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwtMTQyMD
-YyNDcwNSwtOTY3MjkwMjcsLTgzNjUyMDMwNywxNDQ5MjI5NzEy
-XX0=
+eyJoaXN0b3J5IjpbLTgwMjQxOTUyOSwxNjI3NjcwNzM5LDEwOD
+g4NTY2MzQsODMzMTQ5NTY4LDEzNTUwMDE5NzIsOTM4NTA4MTIs
+NTQxMzkyMjM2LDg1ODMzMzgyNSwxMzQ1Mjc1MDY5LC0yNzY5OT
+E5MDAsLTE2NTIxNTE3NTIsNjA5MTg5ODI3LC05NjQ3NjI5MzUs
+MTMzOTM1NzE5OSwxMzM5MzU3MTk5LDEzMzkzNTcxOTksLTE0Mj
+A2MjQ3MDUsLTk2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OTIyOTcx
+Ml19
 -->
