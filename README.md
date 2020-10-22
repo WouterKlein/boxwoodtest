@@ -130,7 +130,8 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^11] To alleviate this problem, the recommended solution was to plant this shrub in combination with other strongly scented evergreens that mitigated this odor, such as myrtle, mastic, and rosemary.[^12] These mixed hedges benefitted from the robust texture of boxwood, while its other selective use, also owed to the thick and dense foliage, concerned planting it in thicket-like bird trapping grounds, _ragnaie_.[^13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^14]
 <param ve-image
 	title="Boxwood in Gerard's herbal"
-	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648">
+	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
+	region="-24,334,699,518">
 
 Its potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); while Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
@@ -245,11 +246,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NTA4MTIsNTQxMzkyMjM2LDg1ODMzMz
-gyNSwxMzQ1Mjc1MDY5LC0yNzY5OTE5MDAsLTE2NTIxNTE3NTIs
-NjA5MTg5ODI3LC05NjQ3NjI5MzUsMTMzOTM1NzE5OSwxMzM5Mz
-U3MTk5LDEzMzkzNTcxOTksLTE0MjA2MjQ3MDUsLTk2NzI5MDI3
-LC04MzY1MjAzMDcsMTQ0OTIyOTcxMiwxNzQyMzYwNzIyLC0yNz
-M3NTM1NTIsODU1MDIyMjcwLDE2NzczNzgzMzgsMzk2MDU3Mzkz
-XX0=
+eyJoaXN0b3J5IjpbLTEzMjc4MzE4Niw5Mzg1MDgxMiw1NDEzOT
+IyMzYsODU4MzMzODI1LDEzNDUyNzUwNjksLTI3Njk5MTkwMCwt
+MTY1MjE1MTc1Miw2MDkxODk4MjcsLTk2NDc2MjkzNSwxMzM5Mz
+U3MTk5LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwtMTQyMDYyNDcw
+NSwtOTY3MjkwMjcsLTgzNjUyMDMwNywxNDQ5MjI5NzEyLDE3ND
+IzNjA3MjIsLTI3Mzc1MzU1Miw4NTUwMjIyNzAsMTY3NzM3ODMz
+OF19
 -->
