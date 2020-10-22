@@ -202,6 +202,15 @@ Closely connected with these expatriate circles was British landscape architect 
 ### Humble yet resilient
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance in addition to malleability, it became a means of exporting this prestigious horticultural tradition that claimed its origins in antiquity across the entire globe, serving not merely as a plant material, but a key medium of stylistic expression. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^30]
+<param ve-image
+	title="Boxwood in the Dumbarton Oaks garden, before removal."
+	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+<param ve-image
+	title="Boxwood blight at the Dumbarton Oaks garden."
+	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+<param ve-image
+	title="Boxwood in the Dumbarton Oaks garden, after removal."
+	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
 
 ### References
 
@@ -236,11 +245,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEyNjg3NTMsODU4MzMzODI1LDEzND
-UyNzUwNjksLTI3Njk5MTkwMCwtMTY1MjE1MTc1Miw2MDkxODk4
-MjcsLTk2NDc2MjkzNSwxMzM5MzU3MTk5LDEzMzkzNTcxOTksMT
-MzOTM1NzE5OSwtMTQyMDYyNDcwNSwtOTY3MjkwMjcsLTgzNjUy
-MDMwNywxNDQ5MjI5NzEyLDE3NDIzNjA3MjIsLTI3Mzc1MzU1Mi
-w4NTUwMjIyNzAsMTY3NzM3ODMzOCwzOTYwNTczOTMsMTk4ODQ0
-MDg3OF19
+eyJoaXN0b3J5IjpbLTcwODAxNjI5NCw4NTgzMzM4MjUsMTM0NT
+I3NTA2OSwtMjc2OTkxOTAwLC0xNjUyMTUxNzUyLDYwOTE4OTgy
+NywtOTY0NzYyOTM1LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwxMz
+M5MzU3MTk5LC0xNDIwNjI0NzA1LC05NjcyOTAyNywtODM2NTIw
+MzA3LDE0NDkyMjk3MTIsMTc0MjM2MDcyMiwtMjczNzUzNTUyLD
+g1NTAyMjI3MCwxNjc3Mzc4MzM4LDM5NjA1NzM5MywxOTg4NDQw
+ODc4XX0=
 -->
