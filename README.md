@@ -162,7 +162,7 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 	seq="9"
 	region="0,47,3960,2934">
 	<param ve-image
-	title="Garden pattern, in Claude Mollet, _Theatre des plans et iardinages_. [1652], plate 5."
+	title="Garden design pattern, in Claude Mollet, _Theatre des plans et iardinages_. [1652], plate 5."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="237"
 	region="3,935,4028,2984">
@@ -243,7 +243,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMTIwODU4LC0xNjUyMTUxNzUyLDYwOT
+eyJoaXN0b3J5IjpbLTI3MjMzMjA4LC0xNjUyMTUxNzUyLDYwOT
 E4OTgyNywtOTY0NzYyOTM1LDEzMzkzNTcxOTksMTMzOTM1NzE5
 OSwxMzM5MzU3MTk5LC0xNDIwNjI0NzA1LC05NjcyOTAyNywtOD
 M2NTIwMzA3LDE0NDkyMjk3MTIsMTc0MjM2MDcyMiwtMjczNzUz
