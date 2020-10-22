@@ -171,10 +171,6 @@ Yet, in practical terms, borders involving a combination of different shrubs as 
 ### A global garden element
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—with their boxwood parterres, bowers (_berceau_), and a labyrinth—created for Louis XIV by André Le Nôtre, from where they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^28]
-<param ve-map
-	title="French royal gardens where Claude Mollet experimented with boxwood"
-	center="Q90"
-	zoom="8">
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing"
 	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
@@ -224,11 +220,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTAwMTc3MSwxMzM5MzU3MTk5LDEzMz
-kzNTcxOTksLTE0MjA2MjQ3MDUsLTk2NzI5MDI3LC04MzY1MjAz
-MDcsMTQ0OTIyOTcxMiwxNzQyMzYwNzIyLC0yNzM3NTM1NTIsOD
-U1MDIyMjcwLDE2NzczNzgzMzgsMzk2MDU3MzkzLDE5ODg0NDA4
-NzgsLTEzMjAwODcxNTQsLTUwMDI5MTA3Nyw3NDMzNDQ5MDgsMT
-Q4ODQwMDU4OCwtMTQzNDgzMzcwNywtMTQzNDgzMzcwNyw0NDE0
-MzI1MTVdfQ==
+eyJoaXN0b3J5IjpbNzYzNzczOTk0LDEzMzkzNTcxOTksMTMzOT
+M1NzE5OSwtMTQyMDYyNDcwNSwtOTY3MjkwMjcsLTgzNjUyMDMw
+NywxNDQ5MjI5NzEyLDE3NDIzNjA3MjIsLTI3Mzc1MzU1Miw4NT
+UwMjIyNzAsMTY3NzM3ODMzOCwzOTYwNTczOTMsMTk4ODQ0MDg3
+OCwtMTMyMDA4NzE1NCwtNTAwMjkxMDc3LDc0MzM0NDkwOCwxND
+g4NDAwNTg4LC0xNDM0ODMzNzA3LC0xNDM0ODMzNzA3LDQ0MTQz
+MjUxNV19
 -->
