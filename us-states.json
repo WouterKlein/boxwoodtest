@@ -6,9 +6,6 @@
             "properties": {
                 "name": "Hawaii",
                 "time": "2010"
-            },
-            "geometry": {
-                "type": "Polygon"
         },
         {
             "type": "Feature",
