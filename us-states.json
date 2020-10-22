@@ -4,6 +4,15 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hawaii",
+                "time": "2010"
+            },
+            "geometry": {
+                "type": "Polygon"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Alabama",
                 "time": "2013"
             },
