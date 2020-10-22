@@ -192,7 +192,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	seq="237"
 	region="3,935,4028,2984">
 <param ve-image
-	title="Imperial garden of the Old Summer Palace in Beijing"
+	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
 	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
@@ -240,11 +240,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTg5ODI3LC05NjQ3NjI5MzUsMTMzOT
-M1NzE5OSwxMzM5MzU3MTk5LDEzMzkzNTcxOTksLTE0MjA2MjQ3
-MDUsLTk2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OTIyOTcxMiwxNz
-QyMzYwNzIyLC0yNzM3NTM1NTIsODU1MDIyMjcwLDE2NzczNzgz
-MzgsMzk2MDU3MzkzLDE5ODg0NDA4NzgsLTEzMjAwODcxNTQsLT
-UwMDI5MTA3Nyw3NDMzNDQ5MDgsMTQ4ODQwMDU4OCwtMTQzNDgz
-MzcwN119
+eyJoaXN0b3J5IjpbLTE2NTIxNTE3NTIsNjA5MTg5ODI3LC05Nj
+Q3NjI5MzUsMTMzOTM1NzE5OSwxMzM5MzU3MTk5LDEzMzkzNTcx
+OTksLTE0MjA2MjQ3MDUsLTk2NzI5MDI3LC04MzY1MjAzMDcsMT
+Q0OTIyOTcxMiwxNzQyMzYwNzIyLC0yNzM3NTM1NTIsODU1MDIy
+MjcwLDE2NzczNzgzMzgsMzk2MDU3MzkzLDE5ODg0NDA4NzgsLT
+EzMjAwODcxNTQsLTUwMDI5MTA3Nyw3NDMzNDQ5MDgsMTQ4ODQw
+MDU4OF19
 -->
