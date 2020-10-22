@@ -114,7 +114,7 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 
 ### Ancient love vs. early modern dismissal
 
-Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^ref7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,”[^ref8] which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^ref9] Yet, along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^ref10]
+Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^ref7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,” which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^ref9] Yet, along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^ref10]
 <param title="espalier"	eid="Q1754876" aliases="espaliers">
 <param title="hedge" eid="Q235779" aliases="hedges">
 <param ve-image
@@ -223,8 +223,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138; John Gerard, _Herball_ (London: Norton, 1595), 1225.
 [^ref6]: Pliny the Younger, _Letters_, V.6.
 [^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano_, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
-[^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 343.
-[^ref9]: Soderini, _Opere_, III:254.
+[^ref9]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
 [^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
 [^ref11]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
 [^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
@@ -247,11 +246,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzY3MDczOSwxMDg4ODU2NjM0LDgzMz
-E0OTU2OCwxMzU1MDAxOTcyLDkzODUwODEyLDU0MTM5MjIzNiw4
-NTgzMzM4MjUsMTM0NTI3NTA2OSwtMjc2OTkxOTAwLC0xNjUyMT
-UxNzUyLDYwOTE4OTgyNywtOTY0NzYyOTM1LDEzMzkzNTcxOTks
-MTMzOTM1NzE5OSwxMzM5MzU3MTk5LC0xNDIwNjI0NzA1LC05Nj
-cyOTAyNywtODM2NTIwMzA3LDE0NDkyMjk3MTIsMTc0MjM2MDcy
-Ml19
+eyJoaXN0b3J5IjpbMjkwMDYzNzEwLDE2Mjc2NzA3MzksMTA4OD
+g1NjYzNCw4MzMxNDk1NjgsMTM1NTAwMTk3Miw5Mzg1MDgxMiw1
+NDEzOTIyMzYsODU4MzMzODI1LDEzNDUyNzUwNjksLTI3Njk5MT
+kwMCwtMTY1MjE1MTc1Miw2MDkxODk4MjcsLTk2NDc2MjkzNSwx
+MzM5MzU3MTk5LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwtMTQyMD
+YyNDcwNSwtOTY3MjkwMjcsLTgzNjUyMDMwNywxNDQ5MjI5NzEy
+XX0=
 -->
