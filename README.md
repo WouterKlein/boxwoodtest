@@ -158,8 +158,7 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 <param ve-image
 	title="Garden pattern, in Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_. [1652], f. [95]. plate 8 (seq. 196)"
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
-	seq="143"
-	rotate="90">
+	seq="9">
 
 Yet, in practical terms, borders involving a combination of different shrubs as described by de Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for de Serres’s treatise. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^24] Mollet’s solution was to reduce the composition of borders to sole boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^25] The species that he particularly praised was “dwarf” (_nain_) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^26]
 <param ve-map
@@ -219,11 +218,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjUyMDMwNywtODM2NTIwMzA3LDE0ND
-kyMjk3MTIsMTc0MjM2MDcyMiwtMjczNzUzNTUyLDg1NTAyMjI3
-MCwxNjc3Mzc4MzM4LDM5NjA1NzM5MywxOTg4NDQwODc4LC0xMz
-IwMDg3MTU0LC01MDAyOTEwNzcsNzQzMzQ0OTA4LDE0ODg0MDA1
-ODgsLTE0MzQ4MzM3MDcsLTE0MzQ4MzM3MDcsNDQxNDMyNTE1LC
-0xNDM0ODMzNzA3LC0xOTE5NjkwMDE3LDEzMjQzNzc3OTcsMjAz
-Mjg1MTE2OV19
+eyJoaXN0b3J5IjpbLTk2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OT
+IyOTcxMiwxNzQyMzYwNzIyLC0yNzM3NTM1NTIsODU1MDIyMjcw
+LDE2NzczNzgzMzgsMzk2MDU3MzkzLDE5ODg0NDA4NzgsLTEzMj
+AwODcxNTQsLTUwMDI5MTA3Nyw3NDMzNDQ5MDgsMTQ4ODQwMDU4
+OCwtMTQzNDgzMzcwNywtMTQzNDgzMzcwNyw0NDE0MzI1MTUsLT
+E0MzQ4MzM3MDcsLTE5MTk2OTAwMTcsMTMyNDM3Nzc5NywyMDMy
+ODUxMTY5XX0=
 -->
