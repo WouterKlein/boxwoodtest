@@ -176,9 +176,21 @@ Yet, in practical terms, borders involving a combination of different shrubs as 
 ### A global garden element
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—with their boxwood parterres, bowers (_berceau_), and a labyrinth—created for Louis XIV by André Le Nôtre, from where they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood; but, in the end, the shrub’s triumph was complete. If, towards the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton extoled the country’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^27] Even the once reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton—Beatrix Farrand’s aunt—would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^28]
+	<param ve-image
+	title="View of the French royal garden at VersaillesGarden pattern, in Claude Mollet, _Theatre des plans et iardinages_. [1652], plate 5."
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
+	seq="237"
+	region="3,935,4028,2984">
 <param ve-image
-	title="Imperial garden of the Old Summer Palace in Beijing"
-	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+	title="Garden pattern, in Claude Mollet, _Theatre des plans et iardinages_. [1652], plate 5."
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
+	seq="237"
+	region="3,935,4028,2984">
+<param ve-image
+	title="Garden pattern, in Claude Mollet, _Theatre des plans et iardinages_. [1652], plate 5."
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
+	seq="237"
+	region="3,935,4028,2984">
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing"
 	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
@@ -228,11 +240,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjU0ODgzNiwtOTY0NzYyOTM1LDEzMz
-kzNTcxOTksMTMzOTM1NzE5OSwxMzM5MzU3MTk5LC0xNDIwNjI0
-NzA1LC05NjcyOTAyNywtODM2NTIwMzA3LDE0NDkyMjk3MTIsMT
-c0MjM2MDcyMiwtMjczNzUzNTUyLDg1NTAyMjI3MCwxNjc3Mzc4
-MzM4LDM5NjA1NzM5MywxOTg4NDQwODc4LC0xMzIwMDg3MTU0LC
-01MDAyOTEwNzcsNzQzMzQ0OTA4LDE0ODg0MDA1ODgsLTE0MzQ4
-MzM3MDddfQ==
+eyJoaXN0b3J5IjpbNjA5MTg5ODI3LC05NjQ3NjI5MzUsMTMzOT
+M1NzE5OSwxMzM5MzU3MTk5LDEzMzkzNTcxOTksLTE0MjA2MjQ3
+MDUsLTk2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OTIyOTcxMiwxNz
+QyMzYwNzIyLC0yNzM3NTM1NTIsODU1MDIyMjcwLDE2NzczNzgz
+MzgsMzk2MDU3MzkzLDE5ODg0NDA4NzgsLTEzMjAwODcxNTQsLT
+UwMDI5MTA3Nyw3NDMzNDQ5MDgsMTQ4ODQwMDU4OCwtMTQzNDgz
+MzcwN119
 -->
