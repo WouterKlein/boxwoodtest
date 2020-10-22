@@ -223,25 +223,25 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138; John Gerard, _Herball_ (London: Norton, 1595), 1225.
 [^ref6]: Pliny the Younger, _Letters_, V.6.
 [^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano_, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
-[^ref9]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
-[^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
-[^ref11]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
-[^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
-[^ref14]: Soderini, _Opere_, III:255, 295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
-[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
-[^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
-[^ref17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
-[^ref19]: Soderini, _Opere_, I:151, 175, 182.
-[^ref20]: Gerard, _Herball_, 1225.
-[^ref22]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
-[^ref23]: De Serres, _Théatre d’agriculture_, 529.
-[^ref26]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-203.
-[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and passim.
-[^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
-[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
-[^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
+[^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 254, 343.
+[^ref9]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere_, III:254.
+[^ref10]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
+[^ref11]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291-2n.17.
+[^ref12]: Soderini, _Opere_, III:255, 295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+[^ref13]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639-40.
+[^ref14]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
+[^ref15]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole _, 606-7.
+[^ref16]: Soderini, _Opere_, I:151, 175, 182.
+[^ref17]: Gerard, _Herball_, 1225.
+[^ref18]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
+[^ref19]: De Serres, _Théatre d’agriculture_, 529.
+[^ref20]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201-203.
+[^ref21]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and passim.
+[^ref22]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
+[^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
+[^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mzc5ODI4MSwxNjI3NjcwNzM5LDEwOD
+eyJoaXN0b3J5IjpbMTk5ODU5NjAzNCwxNjI3NjcwNzM5LDEwOD
 g4NTY2MzQsODMzMTQ5NTY4LDEzNTUwMDE5NzIsOTM4NTA4MTIs
 NTQxMzkyMjM2LDg1ODMzMzgyNSwxMzQ1Mjc1MDY5LC0yNzY5OT
 E5MDAsLTE2NTIxNTE3NTIsNjA5MTg5ODI3LC05NjQ3NjI5MzUs
