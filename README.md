@@ -135,7 +135,7 @@ Its potential medicinal applications met with a similar lack of enthusiasm. Desp
 <param ve-image
 	title="Boxwood image in Parkinson's _Paradisi in sole paradisus terrestris_ (1629)"
 	url="https://ia801309.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125012606931&itemPath=%2F6%2Fitems%2Fgri_33125012606931&server=ia801309.us.archive.org&page=n620_w1136"
-	region="-69,625,501,376">
+	region="1,1201,838,621">
 
 ### A crafty kind of wood
 
@@ -217,11 +217,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mzc1MzU1Miw4NTUwMjIyNzAsMTY3Nz
-M3ODMzOCwzOTYwNTczOTMsMTk4ODQ0MDg3OCwtMTMyMDA4NzE1
-NCwtNTAwMjkxMDc3LDc0MzM0NDkwOCwxNDg4NDAwNTg4LC0xND
-M0ODMzNzA3LC0xNDM0ODMzNzA3LDQ0MTQzMjUxNSwtMTQzNDgz
-MzcwNywtMTkxOTY5MDAxNywxMzI0Mzc3Nzk3LDIwMzI4NTExNj
-ksMTkyOTY5MTkxNywtMjA3NjMxMTY2NCwyOTE1MjA3MzksMzYw
-MjA4NDgyXX0=
+eyJoaXN0b3J5IjpbLTIwMTg4MDg4NjgsLTI3Mzc1MzU1Miw4NT
+UwMjIyNzAsMTY3NzM3ODMzOCwzOTYwNTczOTMsMTk4ODQ0MDg3
+OCwtMTMyMDA4NzE1NCwtNTAwMjkxMDc3LDc0MzM0NDkwOCwxND
+g4NDAwNTg4LC0xNDM0ODMzNzA3LC0xNDM0ODMzNzA3LDQ0MTQz
+MjUxNSwtMTQzNDgzMzcwNywtMTkxOTY5MDAxNywxMzI0Mzc3Nz
+k3LDIwMzI4NTExNjksMTkyOTY5MTkxNywtMjA3NjMxMTY2NCwy
+OTE1MjA3MzldfQ==
 -->
