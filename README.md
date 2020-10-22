@@ -51,7 +51,7 @@
 
 ### Boxwood under threat
 
-“Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^1]
+“Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and can easily be dispersed by moving visitors, wind, or even sprinklers—this disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
 <param ve-map
 	title="Occurence of boxwood blight in America, 2010-2018"
 	center="39.812733, -97.042653"
@@ -216,7 +216,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ### References
 
-[^1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371. (https://doi.org/10.1007/s00253-018-8936-2). 
+[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_, 102 (2018), 4371. (https://doi.org/10.1007/s00253-018-8936-2). 
 [^2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the US. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 [^3]: _Beatrix Farrand’s Plant Book for Dumbarton Oaks_, ed. Diane Kostial McGuire (Washington, DC: Dumbarton Oaks, 1980), xiii.
 [^4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” _The Botany of Empire in the Long Eighteenth Century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
@@ -247,11 +247,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTAwMTk3Miw5Mzg1MDgxMiw1NDEzOT
-IyMzYsODU4MzMzODI1LDEzNDUyNzUwNjksLTI3Njk5MTkwMCwt
-MTY1MjE1MTc1Miw2MDkxODk4MjcsLTk2NDc2MjkzNSwxMzM5Mz
-U3MTk5LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwtMTQyMDYyNDcw
-NSwtOTY3MjkwMjcsLTgzNjUyMDMwNywxNDQ5MjI5NzEyLDE3ND
-IzNjA3MjIsLTI3Mzc1MzU1Miw4NTUwMjIyNzAsMTY3NzM3ODMz
-OF19
+eyJoaXN0b3J5IjpbODMzMTQ5NTY4LDEzNTUwMDE5NzIsOTM4NT
+A4MTIsNTQxMzkyMjM2LDg1ODMzMzgyNSwxMzQ1Mjc1MDY5LC0y
+NzY5OTE5MDAsLTE2NTIxNTE3NTIsNjA5MTg5ODI3LC05NjQ3Nj
+I5MzUsMTMzOTM1NzE5OSwxMzM5MzU3MTk5LDEzMzkzNTcxOTks
+LTE0MjA2MjQ3MDUsLTk2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OT
+IyOTcxMiwxNzQyMzYwNzIyLC0yNzM3NTM1NTIsODU1MDIyMjcw
+XX0=
 -->
