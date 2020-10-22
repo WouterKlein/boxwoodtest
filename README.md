@@ -188,7 +188,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	region="42,362,2798,3776">
 <param ve-image
 	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
-	url="https://github.com/WouterKlein/boxwoodtest/blob/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
+	url="https://raw.githubusercontent.com/WouterKlein/boxwoodtest/master/images/Old-Summer-Palace_Beijing_British-Museum.jpg">
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was that of the Villa I Tatti in Settignano designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref23] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
@@ -238,11 +238,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^ref23]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^ref24]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg3OTk1MjksLTE1NTg1NTcxMDEsMT
-YyNzY3MDczOSwxMDg4ODU2NjM0LDgzMzE0OTU2OCwxMzU1MDAx
-OTcyLDkzODUwODEyLDU0MTM5MjIzNiw4NTgzMzM4MjUsMTM0NT
-I3NTA2OSwtMjc2OTkxOTAwLC0xNjUyMTUxNzUyLDYwOTE4OTgy
-NywtOTY0NzYyOTM1LDEzMzkzNTcxOTksMTMzOTM1NzE5OSwxMz
-M5MzU3MTk5LC0xNDIwNjI0NzA1LC05NjcyOTAyNywtODM2NTIw
-MzA3XX0=
+eyJoaXN0b3J5IjpbMTI0NzY2NDk3OSwtMTQ0ODc5OTUyOSwtMT
+U1ODU1NzEwMSwxNjI3NjcwNzM5LDEwODg4NTY2MzQsODMzMTQ5
+NTY4LDEzNTUwMDE5NzIsOTM4NTA4MTIsNTQxMzkyMjM2LDg1OD
+MzMzgyNSwxMzQ1Mjc1MDY5LC0yNzY5OTE5MDAsLTE2NTIxNTE3
+NTIsNjA5MTg5ODI3LC05NjQ3NjI5MzUsMTMzOTM1NzE5OSwxMz
+M5MzU3MTk5LDEzMzkzNTcxOTksLTE0MjA2MjQ3MDUsLTk2NzI5
+MDI3XX0=
 -->
