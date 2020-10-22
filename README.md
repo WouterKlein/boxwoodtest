@@ -179,7 +179,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	title="Plan of the 'petit parc' in the royal gardens of Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 4."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="65"
-	region="3,935,4028,2984">
+	region="-1613,1,6961,5157">
 <param ve-image
 	title="Garden pattern, in Claude Mollet, _Theatre des plans et iardinages_, [1652], plate 5."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
@@ -241,7 +241,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzI1NjMwMywtMjc2OTkxOTAwLC0xNj
+eyJoaXN0b3J5IjpbLTcwOTg0MTU5NSwtMjc2OTkxOTAwLC0xNj
 UyMTUxNzUyLDYwOTE4OTgyNywtOTY0NzYyOTM1LDEzMzkzNTcx
 OTksMTMzOTM1NzE5OSwxMzM5MzU3MTk5LC0xNDIwNjI0NzA1LC
 05NjcyOTAyNywtODM2NTIwMzA3LDE0NDkyMjk3MTIsMTc0MjM2
