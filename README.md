@@ -32,6 +32,7 @@
 <param title="Saint-Germain-en-Laye" eid="Q60847808">
 <param title="Monceaux" eid="Q1440821">
 <param title="Fontainebleau" eid="Q182872">
+<param title="Versailles" eid="Q621">
 <param title="gardens of Versailles" eid="Q3162464">
 <param title="Louis XIV" eid="Q7742">
 <param title="André Le Nôtre" eid="Q273849">
@@ -224,11 +225,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 [^29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953), 182 (http://www.jstor.org/stable/41365015).
 [^30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii_, both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwODk2MjgsLTE0MjA2MjQ3MDUsLT
-k2NzI5MDI3LC04MzY1MjAzMDcsMTQ0OTIyOTcxMiwxNzQyMzYw
-NzIyLC0yNzM3NTM1NTIsODU1MDIyMjcwLDE2NzczNzgzMzgsMz
-k2MDU3MzkzLDE5ODg0NDA4NzgsLTEzMjAwODcxNTQsLTUwMDI5
-MTA3Nyw3NDMzNDQ5MDgsMTQ4ODQwMDU4OCwtMTQzNDgzMzcwNy
-wtMTQzNDgzMzcwNyw0NDE0MzI1MTUsLTE0MzQ4MzM3MDcsLTE5
-MTk2OTAwMTddfQ==
+eyJoaXN0b3J5IjpbMTMzOTM1NzE5OSwtMTQyMDYyNDcwNSwtOT
+Y3MjkwMjcsLTgzNjUyMDMwNywxNDQ5MjI5NzEyLDE3NDIzNjA3
+MjIsLTI3Mzc1MzU1Miw4NTUwMjIyNzAsMTY3NzM3ODMzOCwzOT
+YwNTczOTMsMTk4ODQ0MDg3OCwtMTMyMDA4NzE1NCwtNTAwMjkx
+MDc3LDc0MzM0NDkwOCwxNDg4NDAwNTg4LC0xNDM0ODMzNzA3LC
+0xNDM0ODMzNzA3LDQ0MTQzMjUxNSwtMTQzNDgzMzcwNywtMTkx
+OTY5MDAxN119
 -->
